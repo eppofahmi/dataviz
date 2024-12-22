@@ -1,2 +1,2 @@
 # dataviz
-data visualization process prototype
+data visualization process prototype in r
