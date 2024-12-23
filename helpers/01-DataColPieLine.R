@@ -17,7 +17,7 @@ aggregate_data <- function(df, x_var, y_var, z_var = NULL, agg = "none") {
     return(list(data = NULL, message = msg, plot_message = plot_msg))
   }
   
-  # Check if required variables exist in dataframe
+  # Check if required variables exist in data frame
   required_vars <- c(x_var, y_var)
   if (!is.null(z_var)) {
     required_vars <- c(required_vars, z_var)
@@ -69,14 +69,14 @@ aggregate_data <- function(df, x_var, y_var, z_var = NULL, agg = "none") {
         result %>%
           group_by(!!sym(x_var)) %>%
           summarise(
-            !!count_col_name := n_distinct(!!sym(y_var)),
+            !!count_col_name := n(),  # Changed from n_distinct() to n()
             .groups = "drop"
           )
       } else {
         result %>%
           group_by(!!sym(x_var), !!sym(z_var)) %>%
           summarise(
-            !!count_col_name := n_distinct(!!sym(y_var)),
+            !!count_col_name := n(),  # Changed from n_distinct() to n()
             .groups = "drop"
           )
       }
@@ -149,12 +149,11 @@ aggregate_data <- function(df, x_var, y_var, z_var = NULL, agg = "none") {
 }
 
 # Example usage:
-# # Create sample data
-# sample_data <- data.frame(
-#   region = c("A", "A", "B", "B", "C"),
-#   sales = c(10, 20, 15, 25, 30),
-#   category = c("X", "Y", "X", "Y", "X")
-# )
+sample_data <- data.frame(
+  region = c("A", "A", "B", "B", "C"),
+  sales = c(10, 20, 15, 25, 30),
+  category = c("X", "Y", "X", "Y", "X")
+)
 # 
 # # Test cases
 # # 1. Two variables - No aggregation
@@ -163,7 +162,7 @@ aggregate_data <- function(df, x_var, y_var, z_var = NULL, agg = "none") {
 # 
 # # 2. Two variables - Count
 # print("\nTest 2 - Two variables, count:")
-# aggregate_data(sample_data, "region", "sales", agg = "count")
+# aggregate_data(sample_data, "category", "category", agg = "count")
 # 
 # # 3. Two variables - Sum
 # print("\nTest 3 - Two variables, sum:")

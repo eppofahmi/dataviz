@@ -1,11 +1,11 @@
 name: Dataviz3Var
-title: Dataviz3Var
+title: dataviz
 username: eppofahmi
 account: eppofahmi
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13632784
-bundleId: 9557031
+bundleId: 9560226
 url: https://eppofahmi.shinyapps.io/Dataviz3Var/
 version: 1
 asMultiple: FALSE

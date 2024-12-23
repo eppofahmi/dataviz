@@ -1,0 +1,1001 @@
+transaction_id,date,province,city,category,store_type,payment_method,sales_amount,quantity,discount_percentage,customer_rating,longitude,latitude
+TRX00001,2024-06-19,Provinsi Kalimantan Selatan,Kabupaten Boven Digoel,Electronics,Online,Digital Wallet,123755,2,13.8,3,140.3481835,-5.7400018
+TRX00002,2024-01-06,Provinsi Kalimantan Selatan,Kabupaten Ogan Komering Ilir,Electronics,Online,Credit Card,706528,3,19.1,3.9,105.2194808,-3.4559744
+TRX00003,2024-07-05,Provinsi Sulawesi Utara,Kabupaten Mamuju Utara,Food & Beverage,Hybrid,Digital Wallet,827058,4,21.7,4.2,119.5107708,-1.5264542
+TRX00004,2024-10-24,Provinsi DI Yogyakarta,Kota Kupang,Food & Beverage,Online,Bank Transfer,1522341,3,13.6,4.3,123.5833333,-10.1833333
+TRX00005,2024-04-19,Provinsi Maluku,Kabupaten Barito Kuala,Fashion,Online,Bank Transfer,1128519,4,23,4.3,114.6667939,-3.0714738
+TRX00006,2024-10-17,Provinsi Maluku Utara,Kabupaten Ogan Komering Ulu Selatan,Fashion,Offline,Digital Wallet,680190,8,13.9,4.3,104.0072348,-4.6681951
+TRX00007,2024-08-08,Provinsi Lampung,Kabupaten Rejang Lebong,Electronics,Online,Bank Transfer,1090274,4,14.7,4.9,102.6675575,-3.4548154
+TRX00008,2024-08-23,Provinsi DI Yogyakarta,Kabupaten Kepahiang,Fashion,Online,Cash,204811,3,20,5.1,102.578201,-3.651431
+TRX00009,2024-01-06,Provinsi Aceh,Kabupaten Tojo Una-Una,Fashion,Online,Bank Transfer,174509,2,49.9,5.1,121.5370003,-1.098757
+TRX00010,2024-05-24,Provinsi Kalimantan Timur,KotaTual,Health & Beauty,Offline,Digital Wallet,161919,5,11.7,3.5,132.7475093,-5.640851
+TRX00011,2024-03-22,Provinsi Sulawesi Selatan,Kabupaten Aceh Jaya,Fashion,Offline,Credit Card,570957,5,24.7,3.8,95.6457951,4.7873684
+TRX00012,2024-03-23,Provinsi Kalimantan Timur,Kabupaten Trenggalek,Electronics,Offline,Cash,1057915,1,17.8,3.6,111.7166667,-8.05
+TRX00013,2024-09-04,Provinsi Maluku Utara,Kabupaten Anambas,Food & Beverage,Hybrid,Bank Transfer,1351509,5,29,4,105.6537231,3.1055459
+TRX00014,2024-07-07,Provinsi Kalimantan Tengah,Kabupaten Sumbawa Barat,Fashion,Offline,Bank Transfer,2407361,2,19.3,4.4,116.89103420000001,-8.9292907
+TRX00015,2024-03-23,Provinsi Bali,Kabupaten Bener Meriah,Electronics,Offline,Cash,758836,1,28.3,4.3,97.0068393,4.7748348
+TRX00016,2024-12-05,Provinsi Bengkulu,Kabupaten Buleleng,Fashion,Online,Digital Wallet,480292,4,18.3,4.1,115.126999,-8.113831
+TRX00017,2024-05-08,Provinsi Jawa Barat,Kota Bau-Bau,Fashion,Online,Credit Card,281831,3,39.4,4.1,122.633,-5.46667
+TRX00018,2024-12-12,Provinsi Papua Barat,Kabupaten Tuban,Food & Beverage,Online,Bank Transfer,703912,4,25.3,4,115.1711298,-8.7493146
+TRX00019,2024-11-15,Provinsi Nusa Tenggara Timur,Kabupaten Kepahiang,Fashion,Offline,Digital Wallet,511951,1,6,3.8,102.578201,-3.651431
+TRX00020,2024-01-18,Provinsi Nusa Tenggara Timur,Kabupaten Konawe Selatan,Health & Beauty,Offline,Cash,394436,1,19.7,3.8,122.4467238,-4.2027915
+TRX00021,2023-12-30,Provinsi Sulawesi Tengah,Kabupaten Tanah Laut,Food & Beverage,Online,Credit Card,277428,6,15.3,3.8,114.8092691,-3.7694047
+TRX00022,2024-05-08,Provinsi Bali,Kabupaten Batanghari,Fashion,Online,Credit Card,199681,2,43.8,3.9,103.0817903,-1.7083922
+TRX00023,2024-09-02,Provinsi Kepulauan Bangka Belitung,Kabupaten Bangka,Food & Beverage,Online,Credit Card,204310,3,7.2,3.5,106.0640179,-2.2884782
+TRX00024,2024-07-21,Provinsi Kalimantan Timur,Kabupaten Deli Serdang,Electronics,Online,Credit Card,2371826,3,2.4,4.8,98.704075,3.4201802
+TRX00025,2024-03-10,Provinsi Maluku Utara,Kabupaten Kepulauan Seribu,Food & Beverage,Online,Digital Wallet,701487,5,28.3,5.2,106.5071982,-5.7985266
+TRX00026,2024-03-13,Provinsi Papua,Kabupaten Ogan Komering Ulu Timur,Electronics,Online,Credit Card,355140,3,50.6,3.5,104.7520939,-3.8567934
+TRX00027,2024-02-04,Provinsi Banten,Kabupaten Kepulauan Meranti,Food & Beverage,Online,Credit Card,112550,4,9,4.8,102.6675575,0.9208765
+TRX00028,2024-12-16,Provinsi Lampung,Kota Padang Panjang,Food & Beverage,Online,Bank Transfer,662121,2,38.8,4.3,100.4059456,-0.470679
+TRX00029,2024-11-19,Provinsi Jambi,Kota Bandung,Fashion,Hybrid,Bank Transfer,332050,3,12.3,4.2,107.6098111,-6.9147444
+TRX00030,2024-05-14,Provinsi Kepulauan Riau,Kabupaten Empat Lawang,Fashion,Online,Bank Transfer,501044,1,19.2,4.2,102.8975098,-3.7286029
+TRX00031,2024-01-24,Provinsi Gorontalo,Kota Pasuruan,Fashion,Online,Credit Card,443828,4,42.4,4.4,112.903297,-7.644872
+TRX00032,2024-04-10,Provinsi Nusa Tenggara Timur,Kabupaten Penajam Paser Utara,Health & Beauty,Online,Bank Transfer,1186355,6,16.2,4.3,116.5137964,-1.2917094
+TRX00033,2024-09-11,Provinsi Papua,Kota Padangsidimpuan,Electronics,Online,Cash,509765,1,40.9,3.8,99.273972,1.380424
+TRX00034,2024-11-17,Provinsi Banten,Kota Batu,Fashion,Offline,Credit Card,456954,4,8,4.3,112.5239,-7.8671
+TRX00035,2024-01-15,Provinsi Sumatera Selatan,Kabupaten Sarolangun,Home & Living,Offline,Cash,5857180,1,22.4,4.6,102.6905326,-2.2654937
+TRX00036,2024-10-27,Provinsi Lampung,Kabupaten Halmahera Utara,Fashion,Online,Bank Transfer,1619365,5,13.2,4.1,128.4849923,1.3121235
+TRX00037,2024-05-06,Provinsi Sulawesi Tengah,Kota Tegal,Electronics,Hybrid,Bank Transfer,621791,2,9.8,3.6,109.1333333,-6.8666667
+TRX00038,2024-10-27,Provinsi DI Yogyakarta,Kota Bukittinggi,Home & Living,Hybrid,Digital Wallet,262798,3,6.7,3.4,100.3691667,-0.3055556
+TRX00039,2024-08-03,Provinsi Maluku Utara,Kabupaten Maluku Tengah,Home & Living,Online,Cash,1775282,3,22.7,4.5,129.4864411,-3.0166501
+TRX00040,2024-06-06,Provinsi Sulawesi Tengah,Kota Palangka Raya,Food & Beverage,Offline,Bank Transfer,214849,5,13.4,4.2,113.92,-2.21
+TRX00041,2024-07-27,Provinsi Lampung,Kabupaten Kerinci,Food & Beverage,Online,Cash,520360,2,20.3,3.9,101.4339148,-1.8720467
+TRX00042,2024-10-08,Provinsi Sulawesi Utara,Kabupaten Bolang Mongondow Selatan,Fashion,Hybrid,Credit Card,1280711,4,17.4,4.3,123.8411288,0.4053215
+TRX00043,2024-03-01,Provinsi Jambi,Kota Jakarta Selatan,Fashion,Online,Credit Card,361866,2,18,3.9,106.807915,-6.332973
+TRX00044,2024-03-04,Provinsi DI Yogyakarta,Kabupaten Malang,Home & Living,Offline,Credit Card,378182,3,18.2,4.2,112.6884549,-8.0495643
+TRX00045,2024-03-08,Provinsi Papua,Kabupaten Karanganyar,Home & Living,Online,Credit Card,848012,5,1.9,4.3,110.9508333,-7.5961111
+TRX00046,2024-02-24,Provinsi Aceh,Kabupaten Morowali,Electronics,Hybrid,Credit Card,627696,2,20,3.2,121.5370003,-2.3003072
+TRX00047,2024-05-12,Provinsi Riau,Kabupaten Kepulauan Seribu,Fashion,Hybrid,Bank Transfer,425529,2,22.1,3.7,106.5071982,-5.7985266
+TRX00048,2024-07-20,Provinsi Nusa Tenggara Barat,Kabupaten Buton,Home & Living,Hybrid,Digital Wallet,442841,1,27.2,3.5,122.9888319,-5.3096355
+TRX00049,2024-12-10,Provinsi Kepulauan Riau,Kabupaten Kupang,Food & Beverage,Online,Bank Transfer,701685,5,20.6,3.6,123.5833333,-10.1833333
+TRX00050,2024-12-04,Provinsi Jawa Barat,Kabupaten Sigi,Food & Beverage,Online,Bank Transfer,870714,3,24.5,5,120.0665236,-1.3834127
+TRX00051,2024-05-24,Provinsi Sumatera Barat,Kabupaten Lombok Timur,Food & Beverage,Online,Digital Wallet,1991905,2,5.3,4.8,116.5609857,-8.5134471
+TRX00052,2024-10-12,Provinsi Sulawesi Selatan,Kabupaten Tegal,Home & Living,Online,Digital Wallet,359011,5,21.6,4.6,109.1333333,-6.8666667
+TRX00053,2024-09-25,Provinsi Jawa Barat,Kabupaten Maybat,Home & Living,Online,Credit Card,2037023,2,4.5,4,101.69970000000001,3.1472
+TRX00054,2024-02-02,Provinsi Lampung,Kota Sorong,Home & Living,Offline,Cash,126137,2,15,4.8,131.25,-0.8666667
+TRX00055,2024-03-22,Provinsi Bali,Kabupaten Kendal,Food & Beverage,Online,Cash,286431,2,26,3.6,110.205597,-6.919686
+TRX00056,2024-11-03,Provinsi Jambi,Kabupaten Semarang,Food & Beverage,Hybrid,Cash,141130,1,27.7,3.2,110.4166667,-6.9666667
+TRX00057,2024-08-02,Provinsi Nusa Tenggara Timur,Kabupaten Tapanuli Selatan,Electronics,Offline,Bank Transfer,743989,2,6.1,2.7,99.2785583,1.5774933
+TRX00058,2024-01-08,Provinsi Papua Barat,Kota Gunungsitoli,Electronics,Offline,Credit Card,831679,4,28.2,4.3,97.61594,1.281964
+TRX00059,2024-04-17,Provinsi Sumatera Utara,Kabupaten Indragiri Hulu,Fashion,Hybrid,Digital Wallet,139290,1,7.8,4.2,102.2547919,-0.7361181
+TRX00060,2024-03-26,Provinsi Bali,KotaTual,Fashion,Offline,Credit Card,572750,1,28.1,3.8,132.7475093,-5.640851
+TRX00061,2024-09-10,Provinsi Lampung,Kabupaten Hulu Sungai Selatan,Fashion,Hybrid,Credit Card,218923,4,12,4.4,115.2363408,-2.7662681
+TRX00062,2024-08-14,Provinsi Nusa Tenggara Barat,Kabupaten Aceh Besar,Fashion,Online,Credit Card,894646,2,11.4,4.2,95.4777811,5.4529168
+TRX00063,2024-03-18,Provinsi Sulawesi Selatan,Kota Tarakan,Fashion,Online,Credit Card,115315,5,27.2,4,117.6333333,3.3
+TRX00064,2024-11-29,Provinsi Maluku,Kota Magelang,Fashion,Hybrid,Credit Card,1296343,3,26.3,4.8,110.213799,-7.481253
+TRX00065,2024-01-31,Provinsi Nusa Tenggara Timur,Kabupaten Sukoharjo,Electronics,Online,Cash,522266,3,16.4,4.9,110.8195292,-7.6808818
+TRX00066,2024-05-30,Provinsi Jambi,Kabupaten Malang,Fashion,Offline,Credit Card,193764,5,10.8,4.7,112.6884549,-8.0495643
+TRX00067,2024-08-19,Provinsi Sulawesi Barat,Kabupaten Mamuju,Electronics,Online,Digital Wallet,502534,6,23.2,4.5,118.9295737,-2.7293364
+TRX00068,2024-07-19,Provinsi Sulawesi Barat,Kota Cilegon,Electronics,Offline,Bank Transfer,418601,0,19.3,3.7,106.040506,-6.0169825
+TRX00069,2024-10-24,Provinsi Jawa Barat,Kabupaten Melawi,Home & Living,Offline,Cash,379223,1,39.5,4.1,111.6660725,-0.7000681
+TRX00070,2024-01-26,Provinsi Aceh,Kabupaten Pangkajene Dan Kepulauan,Health & Beauty,Online,Bank Transfer,122148,4,11.9,4.2,119.5571677,-4.805035
+TRX00071,2023-12-27,Provinsi Maluku,Kota Singkawang,Fashion,Online,Cash,304106,2,18.2,4.3,108.984596,0.908795
+TRX00072,2024-01-05,Provinsi Bengkulu,Kabupaten Banyu Asin,Electronics,Online,Bank Transfer,459095,1,6.2,4.8,104.7520939,-2.6095639
+TRX00073,2024-03-01,Provinsi Jambi,Kabupaten Sumenep,Food & Beverage,Offline,Digital Wallet,123882,4,25.4,3.5,113.9060624,-6.9253999
+TRX00074,2024-08-22,Provinsi Kepulauan Riau,Kabupaten Pulau Morota,Food & Beverage,Online,Cash,738740,2,27.1,3.5,128.4008357,2.3656672
+TRX00075,2024-10-26,Provinsi Lampung,Kota Kediri,Electronics,Online,Bank Transfer,2155335,4,13.9,4.2,112.011398,-7.816895
+TRX00076,2024-09-26,Provinsi Maluku Utara,Kabupaten Klaten,Home & Living,Offline,Digital Wallet,1193532,3,11.1,3.5,110.595497,-7.711687
+TRX00077,2024-03-21,Provinsi Jambi,Kabupaten Selayar,Home & Living,Online,Cash,245685,3,5.1,4.8,120.5,-6
+TRX00078,2024-01-17,Provinsi Kalimantan Selatan,Kabupaten Sumba Timur,Electronics,Online,Bank Transfer,283077,3,5.3,4.1,120.3435506,-9.9802103
+TRX00079,2024-10-09,Provinsi Jawa Barat,Kabupaten Timor Tengah Utara,Health & Beauty,Online,Digital Wallet,342713,6,16.2,2.9,124.597132,-9.4522647
+TRX00080,2024-10-04,Provinsi Kepulauan Riau,Kota Padang Panjang,Health & Beauty,Offline,Bank Transfer,1000723,3,47.6,4.1,100.4059456,-0.470679
+TRX00081,2024-05-30,Provinsi Sulawesi Barat,Kabupaten Buru Selatan,Fashion,Online,Bank Transfer,524825,6,20.8,4.3,126.7819505,-3.3927754
+TRX00082,2024-04-22,Provinsi Maluku,Kabupaten Halmahera Utara,Food & Beverage,Hybrid,Digital Wallet,212200,1,12.2,3.8,128.4849923,1.3121235
+TRX00083,2024-04-11,Provinsi Aceh,Kabupaten Mamberamo Raya,Fashion,Online,Digital Wallet,120374,1,30.6,3.6,137.7637565,-2.5331255
+TRX00084,2024-05-29,Provinsi DI Yogyakarta,Kabupaten Tapanuli Selatan,Fashion,Offline,Digital Wallet,955163,3,22,4.2,99.2785583,1.5774933
+TRX00085,2024-02-25,Provinsi Bengkulu,Kota Palangka Raya,Home & Living,Online,Bank Transfer,192216,2,26.2,4.8,113.92,-2.21
+TRX00086,2024-07-09,Provinsi Kepulauan Riau,Kabupaten Mojokerto,Electronics,Online,Credit Card,897486,3,23.4,4,112.427027,-7.488075
+TRX00087,2024-02-28,Provinsi Jawa Timur,Kabupaten Belitung,Home & Living,Online,Digital Wallet,587371,1,35,4.8,107.9531836,-2.8708938
+TRX00088,2024-05-22,Provinsi Nusa Tenggara Timur,Kota Lubuklinggau,Electronics,Offline,Digital Wallet,1123671,2,19.9,4.9,102.8616667,-3.2966667
+TRX00089,2024-11-22,Provinsi Nusa Tenggara Barat,Kabupaten Tojo Una-Una,Food & Beverage,Offline,Cash,1630687,1,39.8,3.6,121.5370003,-1.098757
+TRX00090,2024-03-17,Provinsi Kalimantan Selatan,Kabupaten Way Kanan,Fashion,Hybrid,Bank Transfer,131537,4,28.7,4.6,104.5655273,-4.4963689
+TRX00091,2024-06-05,Provinsi Nusa Tenggara Barat,Kabupaten Ngawi,Electronics,Offline,Credit Card,1517605,3,19.9,4.1,111.46193,-7.38993
+TRX00092,2024-05-07,Provinsi Sumatera Barat,Kabupaten Karanganyar,Food & Beverage,Offline,Digital Wallet,1086156,6,18.3,4.3,110.9508333,-7.5961111
+TRX00093,2024-02-12,Provinsi Nusa Tenggara Barat,Kabupaten Klaten,Food & Beverage,Online,Digital Wallet,401469,3,6.3,5.1,110.595497,-7.711687
+TRX00094,2024-03-06,Provinsi Aceh,Kabupaten Padang Lawas Utara,Home & Living,Online,Cash,535305,3,11.7,4.7,99.634135,1.5758644
+TRX00095,2024-06-18,Provinsi Jawa Timur,Kabupaten Nias,Food & Beverage,Online,Credit Card,889788,2,16.2,4,113.7111274,-8.1712591
+TRX00096,2024-12-19,Provinsi Sumatera Selatan,Kabupaten Katingan,Food & Beverage,Online,Credit Card,1056890,4,38.9,3.4,112.8105512,-0.9758379
+TRX00097,2024-08-15,Provinsi Papua,Kabupaten Kepulauan Yapen,Electronics,Online,Digital Wallet,98351,3,35.4,4.4,136.1709012,-1.7469359
+TRX00098,2024-03-30,Provinsi Kepulauan Riau,Kabupaten Tanjung Jabung Barat,Fashion,Hybrid,Cash,2348289,4,10.1,4.5,103.7984428,-1.2332122
+TRX00099,2024-11-17,Provinsi Sulawesi Selatan,Kota Surabaya,Fashion,Online,Cash,133579,2,13.6,4.8,112.734398,-7.289166
+TRX00100,2024-07-24,Provinsi Nusa Tenggara Barat,Kabupaten Deli Serdang,Electronics,Offline,Credit Card,68130,4,5.4,4.9,98.704075,3.4201802
+TRX00101,2024-04-28,Provinsi Jambi,Kota Sibolga,Electronics,Online,Credit Card,1417747,3,22.9,4.3,98.7827988,1.7403745
+TRX00102,2024-07-22,Provinsi Sumatera Selatan,Kabupaten Natuna,Home & Living,Online,Cash,120421,4,24.6,4.3,108.1812242,3.9329945
+TRX00103,2024-06-14,Provinsi Sulawesi Barat,Kabupaten Musi Banyuasin,Food & Beverage,Online,Bank Transfer,436349,3,13.3,4.4,103.7289167,-2.5442029
+TRX00104,2024-09-21,Provinsi Kepulauan Bangka Belitung,Kabupaten Klaten,Health & Beauty,Hybrid,Cash,142033,2,5.6,4.7,110.595497,-7.711687
+TRX00105,2024-10-20,Provinsi Kalimantan Selatan,Kabupaten Balangan,Health & Beauty,Online,Bank Transfer,90740,2,14.6,4.3,115.6154732,-2.3260425
+TRX00106,2024-10-28,Provinsi Kalimantan Barat,Kota Subulussalam,Food & Beverage,Online,Bank Transfer,350889,3,18.4,4,98.0165205,2.6449927
+TRX00107,2024-08-11,Provinsi Maluku,Kabupaten Muaro Jambi,Electronics,Online,Bank Transfer,1042834,1,16.8,3.7,103.615799,-1.596672
+TRX00108,2024-12-23,Provinsi DI Yogyakarta,Kota Tebing Tinggi,Fashion,Online,Bank Transfer,748809,4,22.9,4.2,99.2009815,3.3856205
+TRX00109,2024-08-22,Provinsi Sulawesi Barat,Kota Depok,Fashion,Offline,Digital Wallet,287181,2,7,4.2,106.83,-6.39
+TRX00110,2024-12-07,Provinsi DKI Jakarta,Kabupaten Labuhanbatu Utara,Food & Beverage,Offline,Cash,537446,2,34.4,4.2,99.8124935,2.3465638
+TRX00111,2024-11-22,Provinsi Kalimantan Barat,Kabupaten Bungo,Home & Living,Hybrid,Digital Wallet,494670,4,33.7,4,101.8891721,-1.6401338
+TRX00112,2024-09-28,Provinsi Bali,Kabupaten Kerinci,Food & Beverage,Offline,Bank Transfer,533287,3,15.1,3.9,101.4339148,-1.8720467
+TRX00113,2024-04-14,Provinsi Sulawesi Utara,Kabupaten Siau Tagulandang Biaro,Food & Beverage,Offline,Credit Card,349515,2,20.9,4.7,125.4124355,2.345964
+TRX00114,2024-04-08,Provinsi Sulawesi Tengah,Kabupaten Sikka,Electronics,Offline,Cash,783315,5,13.3,4.1,122.1291843,-8.6766175
+TRX00115,2024-05-22,Provinsi Jawa Tengah,Kabupaten Lombok Timur,Fashion,Hybrid,Cash,184912,2,33,5,116.5609857,-8.5134471
+TRX00116,2024-05-25,Provinsi Jawa Barat,Kota Pagar Alam,Food & Beverage,Hybrid,Cash,796401,2,4,3.8,103.265297,-4.03767
+TRX00117,2024-04-03,Provinsi Sumatera Selatan,Kota Yogyakarta,Health & Beauty,Online,Cash,388844,1,16.8,3.3,110.368797,-7.797224
+TRX00118,2024-09-03,Provinsi Sumatera Barat,Kabupaten Timor Tengah Utara,Home & Living,Online,Digital Wallet,390328,3,31.5,4.1,124.597132,-9.4522647
+TRX00119,2024-05-31,Provinsi Gorontalo,Kabupaten Kolaka,Fashion,Hybrid,Credit Card,1105872,2,9.2,4.7,121.593803,-4.049665
+TRX00120,2024-05-26,Provinsi DKI Jakarta,Kabupaten Tanjung Jabung Timur,Food & Beverage,Online,Credit Card,356029,3,7.4,4.1,103.89973,-1.3291599
+TRX00121,2023-12-28,Provinsi Nusa Tenggara Timur,Kota Jakarta Timur,Home & Living,Offline,Bank Transfer,203820,3,18.4,3.4,106.845172,-6.211544
+TRX00122,2024-11-13,Provinsi DKI Jakarta,Kabupaten Kotawaringin Timur,Electronics,Hybrid,Cash,163948,5,19.1,3.9,106.8630737,-6.1952992
+TRX00123,2024-09-20,Provinsi Kalimantan Selatan,Kabupaten Bandung,Fashion,Online,Cash,1065946,2,34.6,4.2,107.6098111,-6.9147444
+TRX00124,2024-09-28,Provinsi DKI Jakarta,Kabupaten Lahat,Food & Beverage,Hybrid,Credit Card,52947,2,18.3,4.9,103.5427778,-3.7863889
+TRX00125,2024-10-06,Provinsi Sulawesi Tenggara,Kabupaten Rokan Hulu,Food & Beverage,Offline,Bank Transfer,359844,2,12.5,4.8,100.439656,1.0410934
+TRX00126,2024-09-25,Provinsi Sumatera Utara,Kabupaten Banyumas,Fashion,Online,Digital Wallet,654611,3,15.4,4.6,109.140438,-7.4832133
+TRX00127,2024-02-16,Provinsi Sumatera Selatan,Kabupaten Mamasa,Food & Beverage,Online,Cash,138051,1,37.5,4.4,119.368202,-2.960135
+TRX00128,2024-11-18,Provinsi Gorontalo,Kabupaten Gorontalo,Electronics,Online,Cash,549796,2,34.3,3.8,123.0666667,0.5333333
+TRX00129,2024-08-17,Provinsi Sulawesi Barat,Kabupaten Wonosobo,Electronics,Hybrid,Cash,1067234,4,14,4.6,109.899399,-7.362109
+TRX00130,2024-08-31,Provinsi Riau,Kabupaten Lampung Barat,Food & Beverage,Online,Credit Card,88072,2,7.1,4.8,104.1930918,-5.1490396
+TRX00131,2024-11-26,Provinsi Jambi,Kabupaten Hulu Sungai Tengah,Health & Beauty,Online,Bank Transfer,224836,7,8.9,4.6,115.5207358,-2.6153162
+TRX00132,2024-01-31,Provinsi Maluku Utara,Kabupaten Lanny Jaya,Electronics,Hybrid,Digital Wallet,3180671,7,45.2,4.8,138.3190276,-3.971033
+TRX00133,2024-10-28,Provinsi Kepulauan Bangka Belitung,Kabupaten Bireuen,Food & Beverage,Online,Credit Card,283712,2,31.8,4.4,96.89005,5.18254
+TRX00134,2024-05-08,Provinsi Nusa Tenggara Timur,Kabupaten Jember,Electronics,Offline,Credit Card,207782,3,23.2,4.7,113.700302,-8.172357
+TRX00135,2024-08-05,Provinsi Gorontalo,Kota Jakarta Timur,Electronics,Online,Digital Wallet,231566,4,34.1,4.9,106.845172,-6.211544
+TRX00136,2024-02-09,Provinsi Jawa Timur,Kabupaten Bolang Mongondow Selatan,Fashion,Online,Bank Transfer,353635,5,35.1,3.7,123.8411288,0.4053215
+TRX00137,2024-03-09,Provinsi DKI Jakarta,Kabupaten Bolaang Mongondow,Food & Beverage,Online,Credit Card,657540,6,11.5,5,124.0641419,0.6870994
+TRX00138,2024-03-15,Provinsi Sulawesi Barat,Kabupaten Rembang,Food & Beverage,Offline,Cash,270134,4,11.3,4.6,111.345299,-6.71124
+TRX00139,2024-06-24,Provinsi Bali,Kabupaten Lingga,Food & Beverage,Hybrid,Cash,668011,2,37.7,4.6,104.6354631,-0.1627686
+TRX00140,2024-01-31,Provinsi Sulawesi Tengah,Kabupaten Bolang Mongondow Timur,Electronics,Online,Cash,1101621,5,7.5,4.2,124.4641848,0.7152651
+TRX00141,2024-07-06,Provinsi Jawa Barat,Kabupaten Pidie,Food & Beverage,Hybrid,Credit Card,764152,2,6.6,3.7,95.940971,5.0742659
+TRX00142,2024-09-05,Provinsi Nusa Tenggara Timur,Kota Prabumulih,Food & Beverage,Online,Bank Transfer,1155641,7,7.8,3.6,104.235397,-3.440956
+TRX00143,2024-06-08,Provinsi Bengkulu,Kabupaten Asahan,Health & Beauty,Offline,Credit Card,245109,4,19.8,4.4,99.634135,2.8174722
+TRX00144,2024-10-04,Provinsi DKI Jakarta,Kabupaten Jepara,Home & Living,Online,Cash,482916,3,19.7,4.1,110.6717,-6.5596059
+TRX00145,2024-03-26,Provinsi Jawa Timur,Kota Surabaya,Home & Living,Offline,Cash,1060901,1,29.7,4.7,112.734398,-7.289166
+TRX00146,2024-09-20,Provinsi Kepulauan Bangka Belitung,Kota Depok,Electronics,Online,Cash,576827,5,17.8,4.2,106.83,-6.39
+TRX00147,2024-12-01,Provinsi Sulawesi Utara,Kabupaten Seruyan,Electronics,Offline,Bank Transfer,675383,3,13,4,112.4291464,-3.0123467
+TRX00148,2024-10-28,Provinsi Nusa Tenggara Timur,Kabupaten Sukamara,Home & Living,Hybrid,Bank Transfer,574469,5,12.9,5,111.2368084,-2.6267517
+TRX00149,2024-01-12,Provinsi DKI Jakarta,Kabupaten Pasaman Barat,Home & Living,Offline,Digital Wallet,655568,2,12,4.1,99.634135,0.2213005
+TRX00150,2024-12-17,Provinsi Papua,Kabupaten Bengkulu Selatan,Electronics,Online,Cash,532675,5,7.6,3.9,103.035694,-4.3248409
+TRX00151,2024-07-05,Provinsi Kepulauan Bangka Belitung,Kabupaten Balangan,Fashion,Hybrid,Credit Card,181852,1,22.8,4.5,115.6154732,-2.3260425
+TRX00152,2024-12-06,Provinsi Kalimantan Timur,Kabupaten Selayar,Fashion,Online,Bank Transfer,649748,9,7,5,120.5,-6
+TRX00153,2024-06-04,Provinsi Bali,Kabupaten Lombok Barat,Home & Living,Hybrid,Digital Wallet,346270,4,40.4,3.7,116.1123078,-8.6464599
+TRX00154,2024-02-13,Provinsi Kepulauan Riau,Kabupaten Tebo,Fashion,Offline,Cash,2294715,3,22.4,4.1,102.3463875,-1.2592999
+TRX00155,2024-12-21,Provinsi Lampung,Kabupaten Hulu Sungai Utara,Electronics,Online,Credit Card,321499,3,30,4,115.188916,-2.4421225
+TRX00156,2024-01-14,Provinsi Nusa Tenggara Barat,Kabupaten Pohuwato,Fashion,Offline,Cash,635706,3,12.3,4.2,121.7195459,0.7055278
+TRX00157,2024-06-17,Provinsi Sulawesi Utara,Kabupaten Soppeng,Food & Beverage,Online,Digital Wallet,75893,7,15.8,4.4,119.9277947,-4.3518541
+TRX00158,2024-02-03,Provinsi Sulawesi Tengah,Kabupaten Jepara,Food & Beverage,Offline,Cash,282508,3,30.7,4.6,110.6717,-6.5596059
+TRX00159,2024-11-02,Provinsi Bengkulu,Kabupaten Natuna,Food & Beverage,Online,Digital Wallet,238444,0,20.2,4.7,108.1812242,3.9329945
+TRX00160,2024-03-16,Provinsi Jawa Barat,Kabupaten Nias Barat,Food & Beverage,Offline,Digital Wallet,1871113,5,28.5,3.8,97.5247243,1.1255279
+TRX00161,2024-01-03,Provinsi Banten,Kota Bandung,Fashion,Online,Credit Card,469421,4,14,4.2,107.6098111,-6.9147444
+TRX00162,2024-04-22,Provinsi Sumatera Barat,Kabupaten Blitar,Health & Beauty,Hybrid,Credit Card,631149,5,13.1,4.6,112.162762,-8.1014419
+TRX00163,2024-10-20,Provinsi Maluku Utara,Kabupaten Nias Selatan,Electronics,Online,Bank Transfer,737217,2,17.6,3.9,97.8286368,0.7086091
+TRX00164,2024-03-17,Provinsi Kalimantan Tengah,Kabupaten Bengkulu Tengah,Food & Beverage,Online,Credit Card,321010,3,22,4.4,102.2591667,-3.7955556
+TRX00165,2024-12-22,Provinsi Gorontalo,Kabupaten Ogan Komering Ulu Timur,Fashion,Hybrid,Credit Card,737525,2,12,5.1,104.7520939,-3.8567934
+TRX00166,2024-07-04,Provinsi Sulawesi Selatan,Kabupaten Batu Bara,Electronics,Offline,Cash,2463182,4,34,3.5,99.5006143,3.1740979
+TRX00167,2024-04-08,Provinsi Aceh,Kabupaten Maluku Barat Daya,Food & Beverage,Online,Cash,1011893,1,23.1,4.6,126.3498097,-7.7851588
+TRX00168,2024-03-09,Provinsi Sulawesi Selatan,Kabupaten Bangli,Electronics,Offline,Cash,1115419,5,31.8,4.2,115.354897,-8.454303
+TRX00169,2024-07-08,Provinsi Kalimantan Tengah,Kabupaten Kota Baru,Food & Beverage,Online,Digital Wallet,237001,4,33.5,3.7,106.807915,-6.332973
+TRX00170,2024-08-28,Provinsi Kalimantan Tengah,Kota Blitar,Food & Beverage,Hybrid,Digital Wallet,653036,1,10.5,4.3,112.15,-8.1
+TRX00171,2024-07-10,Provinsi Maluku,Kota Pematang Siantar,Electronics,Online,Digital Wallet,732111,5,36.2,4.2,99.06,2.96
+TRX00172,2024-05-31,Provinsi Jawa Barat,Kabupaten Pulang Pisau,Food & Beverage,Offline,Digital Wallet,283577,5,6.9,3.7,113.9536466,-2.6849607
+TRX00173,2024-08-29,Provinsi Papua,Kabupaten Belu,Fashion,Online,Cash,614007,4,22.5,4.2,124.9506625,-9.4125796
+TRX00174,2024-10-10,Provinsi Jawa Tengah,Kabupaten Ponorogo,Food & Beverage,Online,Cash,3928894,1,38.3,4.5,111.466003,-7.867827
+TRX00175,2024-01-08,Provinsi Papua,Kabupaten Batang,Electronics,Hybrid,Credit Card,206036,1,4.3,4.1,109.7234519,-6.8941111
+TRX00176,2024-01-25,Provinsi Sulawesi Utara,Kota Bukittinggi,Electronics,Offline,Bank Transfer,949118,3,14,5.1,100.3691667,-0.3055556
+TRX00177,2024-02-01,Provinsi Kepulauan Bangka Belitung,Kabupaten Bungo,Food & Beverage,Online,Digital Wallet,186562,6,14.5,5,101.8891721,-1.6401338
+TRX00178,2024-01-02,Provinsi Maluku Utara,Kabupaten Poso,Fashion,Offline,Credit Card,776333,6,2.3,3.8,120.766998,-1.391922
+TRX00179,2024-07-10,Provinsi Papua Barat,Kabupaten Barito Timur,Food & Beverage,Online,Digital Wallet,192628,3,17.1,4.9,115.188916,-2.0123999
+TRX00180,2024-04-26,Provinsi Sumatera Utara,Kabupaten Asmat,Fashion,Online,Cash,985290,3,5.4,4.8,138.3988186,-5.0573958
+TRX00181,2024-09-13,Provinsi Maluku Utara,Kabupaten Ngada,Fashion,Online,Bank Transfer,153568,3,7.6,3.9,120.9876321,-8.7430424
+TRX00182,2024-09-11,Provinsi Sulawesi Tenggara,Kabupaten Polewali Mandar,Electronics,Online,Digital Wallet,557277,2,14.6,5,119.13906420000001,-3.3419323
+TRX00183,2024-06-26,Provinsi Papua,Kabupaten Klungkung,Food & Beverage,Hybrid,Digital Wallet,2087873,3,19.1,5,115.4045111,-8.5389222
+TRX00184,2024-02-22,Provinsi Kalimantan Timur,Kabupaten Agam,Fashion,Offline,Bank Transfer,437078,2,21.7,4.5,100.1703257,-0.2209392
+TRX00185,2024-08-31,Provinsi Kepulauan Riau,Kabupaten Tulungagung,Food & Beverage,Hybrid,Bank Transfer,490874,2,23.1,4.6,111.9,-8.0666667
+TRX00186,2024-05-23,Provinsi Nusa Tenggara Timur,Kabupaten Muna,Fashion,Online,Cash,2223361,3,16,3.7,122.6277455,-4.901629
+TRX00187,2024-11-06,Provinsi Banten,Kabupaten Tabalong,Home & Living,Online,Credit Card,4183409,3,13.9,5.1,115.5681084,-1.864302
+TRX00188,2024-02-15,Provinsi Papua Barat,Kabupaten Buol,Electronics,Online,Cash,6539985,1,5.9,3.9,121.3541631,0.9695452
+TRX00189,2024-01-18,Provinsi Nusa Tenggara Timur,Kabupaten Biak Numfor,Home & Living,Offline,Cash,368323,1,4.5,4,135.9800848,-1.0381022
+TRX00190,2024-08-14,Provinsi Riau,Kabupaten Maluku Tenggara,Food & Beverage,Online,Bank Transfer,190081,3,17.1,4.5,132.7271587,-5.7512455
+TRX00191,2024-10-07,Provinsi Sulawesi Barat,Kabupaten Pekalongan,Food & Beverage,Online,Cash,1047058,5,12.9,4.3,109.669998,-6.882887
+TRX00192,2024-06-25,Provinsi Jawa Tengah,Kota Yogyakarta,Electronics,Offline,Cash,844024,3,41.9,5,110.368797,-7.797224
+TRX00193,2024-09-01,Provinsi Kalimantan Barat,Kabupaten Garut,Fashion,Hybrid,Cash,1973953,4,17.3,3.8,107.908699,-7.227906
+TRX00194,2024-04-16,Provinsi Sumatera Barat,Kabupaten Tojo Una-Una,Food & Beverage,Online,Credit Card,634475,2,21.2,3.9,121.5370003,-1.098757
+TRX00195,2024-01-02,Provinsi Sulawesi Tengah,Kabupaten Bone,Food & Beverage,Offline,Bank Transfer,641240,3,4.2,4.3,120.216667,-2.083333
+TRX00196,2024-10-27,Provinsi Kalimantan Tengah,Kota Palu,Food & Beverage,Hybrid,Digital Wallet,2480818,4,16.6,4.5,119.850601,-0.898583
+TRX00197,2024-02-15,Provinsi Jambi,Kota Pasuruan,Electronics,Online,Credit Card,641992,5,16.1,5.7,112.903297,-7.644872
+TRX00198,2024-07-15,Provinsi Jambi,Kabupaten Karang Asem,Fashion,Offline,Credit Card,1080112,3,5.4,3.5,108.0503042,-6.3996057
+TRX00199,2024-12-20,Provinsi Nusa Tenggara Timur,Kabupaten Tapanuli Utara,Fashion,Online,Cash,886342,1,9.1,4.8,99.1013498,2.0405246
+TRX00200,2024-09-15,Provinsi Maluku,Kabupaten Kepulauan Mentawai,Home & Living,Online,Digital Wallet,522233,2,9.5,4.6,98.9245343,-1.426001
+TRX00201,2024-01-17,Provinsi Bengkulu,Kabupaten Tegal,Food & Beverage,Online,Bank Transfer,319825,5,30.1,4.8,109.1333333,-6.8666667
+TRX00202,2024-02-13,Provinsi Bali,Kabupaten Ogan Komering Ulu Timur,Home & Living,Hybrid,Digital Wallet,389568,2,33.1,3.6,104.7520939,-3.8567934
+TRX00203,2024-09-30,Provinsi Sulawesi Barat,Kabupaten Kutai Kartanegara,Food & Beverage,Online,Bank Transfer,77794,3,15.5,4.4,116.6081653,-0.1336655
+TRX00204,2024-07-25,Provinsi Bali,Kabupaten Luwu Timur,Food & Beverage,Hybrid,Credit Card,1960667,2,16.2,4,121.1710389,-2.5825518
+TRX00205,2024-12-03,Provinsi DKI Jakarta,Kota Pekalongan,Food & Beverage,Online,Bank Transfer,110772,4,6.4,3.3,109.669998,-6.882887
+TRX00206,2024-05-31,Provinsi DI Yogyakarta,Kota Pariaman,Home & Living,Offline,Digital Wallet,302441,2,12.2,3.7,100.1179574,-0.6264389
+TRX00207,2024-02-18,Provinsi Papua,Kabupaten Bekasi,Electronics,Online,Bank Transfer,377003,2,60,3.7,107,-6.2333333
+TRX00208,2024-04-06,Provinsi Kepulauan Riau,Kabupaten Kepulauan Aru,Fashion,Hybrid,Cash,1822772,2,19.4,5,134.5501935,-6.1946502
+TRX00209,2024-12-14,Provinsi Jawa Tengah,Kabupaten Flores Timur,Electronics,Offline,Credit Card,578498,2,15.4,3.8,122.9663018,-8.3130942
+TRX00210,2024-09-27,Provinsi Jawa Barat,Kabupaten Lampung Selatan,Electronics,Offline,Bank Transfer,1403621,2,18.2,4.6,105.5474373,-5.5622614
+TRX00211,2024-09-18,Provinsi Papua,Kabupaten Batang Hari,Electronics,Offline,Bank Transfer,406813,2,20.2,4.5,103.0817903,-1.7083922
+TRX00212,2024-12-23,Provinsi DKI Jakarta,Kabupaten Berau,Health & Beauty,Hybrid,Digital Wallet,2904317,1,24.2,3.8,117.3616476,2.0450883
+TRX00213,2024-05-05,Provinsi Lampung,Kabupaten Grobogan,Food & Beverage,Offline,Cash,888543,5,7.8,4.5,110.9625854,-7.0217194
+TRX00214,2024-12-04,Provinsi Bali,Kota Batu,Fashion,Hybrid,Bank Transfer,943767,3,14,4.5,112.5239,-7.8671
+TRX00215,2024-04-30,Provinsi Riau,Kabupaten Jembrana,Food & Beverage,Offline,Bank Transfer,1313061,5,31,3.6,114.6418,-8.361852
+TRX00216,2024-07-28,Provinsi Jawa Barat,Kabupaten Pasaman Barat,Food & Beverage,Online,Bank Transfer,124009,3,2,4.6,99.634135,0.2213005
+TRX00217,2024-04-07,Provinsi DI Yogyakarta,Kabupaten Tanjung Jabung Barat,Electronics,Hybrid,Digital Wallet,540266,6,11.7,4.2,103.7984428,-1.2332122
+TRX00218,2024-06-26,Provinsi Sulawesi Tenggara,Kabupaten Sukoharjo,Electronics,Offline,Credit Card,676552,5,8,4.1,110.8195292,-7.6808818
+TRX00219,2024-11-24,Provinsi DKI Jakarta,Kota Batam,Fashion,Online,Bank Transfer,253625,3,22.7,3.8,104.0304535,1.0456264
+TRX00220,2024-10-03,Provinsi Sulawesi Barat,Kabupaten Tanjung Jabung Barat,Fashion,Online,Cash,552667,1,11.4,4.1,103.7984428,-1.2332122
+TRX00221,2024-01-18,Provinsi Nusa Tenggara Timur,Kabupaten Puncak Jaya,Fashion,Online,Cash,265402,2,4.9,3.7,137.1847222,-4.0836111
+TRX00222,2024-01-19,Provinsi Kalimantan Tengah,Kabupaten Gunung Mas,Food & Beverage,Online,Bank Transfer,680163,4,18,4.2,106.9913889,-6.7052778
+TRX00223,2023-12-30,Provinsi Sumatera Selatan,Kabupaten Padang Lawas Utara,Home & Living,Offline,Cash,91630,6,16.1,4.1,99.634135,1.5758644
+TRX00224,2024-08-24,Provinsi Jambi,Kabupaten Barito Timur,Electronics,Online,Digital Wallet,725597,2,31,4.1,115.188916,-2.0123999
+TRX00225,2024-05-25,Provinsi Sulawesi Utara,Kabupaten Demak,Food & Beverage,Offline,Digital Wallet,288967,1,3.7,4.8,110.639297,-6.888115
+TRX00226,2024-02-02,Provinsi Banten,Kota Tomohon,Fashion,Online,Bank Transfer,1396780,3,31,3.9,124.8384504,1.3234131
+TRX00227,2024-07-22,Provinsi Kepulauan Bangka Belitung,Kabupaten Mamuju,Home & Living,Online,Credit Card,75904,3,13.1,4.1,118.9295737,-2.7293364
+TRX00228,2024-08-01,Provinsi DI Yogyakarta,Kabupaten Kubu Raya,Food & Beverage,Online,Cash,569693,0,19.1,4.6,109.4735066,-0.3533938
+TRX00229,2024-05-30,Provinsi Jambi,Kabupaten S I A K,Fashion,Hybrid,Cash,437762,4,24.2,4.9,113.921327,-0.789275
+TRX00230,2024-12-06,Provinsi Maluku,Kabupaten Aceh Tenggara,Home & Living,Offline,Cash,1398435,2,35.8,4.1,97.6982272,3.3088666
+TRX00231,2024-05-16,Provinsi Riau,Kota Jakarta Barat,Food & Beverage,Hybrid,Credit Card,112457,1,8.5,4.2,106.845172,-6.211544
+TRX00232,2024-02-18,Provinsi Riau,Kabupaten Seluma,Food & Beverage,Online,Digital Wallet,315404,5,27.5,4.7,102.5642261,-4.0622929
+TRX00233,2024-05-19,Provinsi Papua Barat,Kabupaten Lombok Barat,Fashion,Offline,Credit Card,1112591,1,18.2,4.4,116.1123078,-8.6464599
+TRX00234,2024-06-03,Provinsi Gorontalo,Kabupaten Musi Banyuasin,Food & Beverage,Online,Bank Transfer,1007733,4,16.7,4.4,103.7289167,-2.5442029
+TRX00235,2024-08-17,Provinsi Kalimantan Tengah,Kabupaten Puncak Jaya,Electronics,Offline,Digital Wallet,779708,4,4.8,4.1,137.1847222,-4.0836111
+TRX00236,2024-06-01,Provinsi Sumatera Selatan,Kabupaten Sarolangun,Electronics,Hybrid,Credit Card,728622,3,51.7,4.2,102.6905326,-2.2654937
+TRX00237,2024-02-27,Provinsi Kalimantan Barat,Kabupaten Sarolangun,Fashion,Online,Cash,102929,6,14,4.2,102.6905326,-2.2654937
+TRX00238,2023-12-27,Provinsi Bali,Kota Jakarta Utara,Food & Beverage,Online,Credit Card,1278761,3,29.3,4.5,106.845172,-6.211544
+TRX00239,2024-11-17,Provinsi DKI Jakarta,Kabupaten Samosir,Food & Beverage,Online,Bank Transfer,677467,2,9.4,4.1,98.8166667,2.5833333
+TRX00240,2024-08-04,Provinsi Kalimantan Tengah,Kota Tangerang Selatan,Fashion,Hybrid,Credit Card,88933,2,20.7,4,106.7180556,-6.2888889
+TRX00241,2024-04-18,Provinsi Papua Barat,Kabupaten Poso,Fashion,Offline,Cash,459038,2,9,4.2,120.766998,-1.391922
+TRX00242,2024-01-17,Provinsi Nusa Tenggara Timur,Kabupaten Kepahiang,Food & Beverage,Online,Digital Wallet,1417079,3,39.4,4,102.578201,-3.651431
+TRX00243,2024-05-07,Provinsi Aceh,Kabupaten Nias,Food & Beverage,Hybrid,Bank Transfer,1103644,1,28.4,5,113.7111274,-8.1712591
+TRX00244,2024-02-16,Provinsi Jawa Barat,Kabupaten Bolang Mongondow Selatan,Home & Living,Online,Digital Wallet,290412,2,15,3.7,123.8411288,0.4053215
+TRX00245,2024-07-27,Provinsi DI Yogyakarta,Kabupaten Barito Selatan,Fashion,Online,Cash,1353132,6,26.2,4.8,114.8092691,-1.875943
+TRX00246,2024-03-17,Provinsi Sumatera Barat,Kota Yogyakarta,Health & Beauty,Online,Credit Card,367095,2,15.3,4.2,110.368797,-7.797224
+TRX00247,2024-02-06,Provinsi Kalimantan Barat,Kabupaten Flores Timur,Electronics,Online,Credit Card,799946,2,34.6,3.2,122.9663018,-8.3130942
+TRX00248,2024-05-17,Provinsi Sulawesi Selatan,Kabupaten Toba Samosir,Home & Living,Offline,Credit Card,1381766,6,13.2,3.9,99.2785583,2.3502398
+TRX00249,2024-06-10,Provinsi Riau,Kabupaten Batang,Fashion,Hybrid,Digital Wallet,806869,2,3.5,4.8,109.7234519,-6.8941111
+TRX00250,2024-05-05,Provinsi Riau,Kabupaten Gorontalo Utara,Health & Beauty,Hybrid,Credit Card,284258,4,35.9,3.6,122.4920088,0.9252647
+TRX00251,2024-07-09,Provinsi Sulawesi Selatan,Kabupaten Teluk Bintuni,Home & Living,Offline,Credit Card,1239629,2,44.2,4.3,133.329466,-1.9056848
+TRX00252,2024-12-18,Provinsi Aceh,Kabupaten Keerom,Food & Beverage,Offline,Digital Wallet,2392311,8,21.8,3.6,140.7624493,-3.3449536
+TRX00253,2024-06-16,Provinsi Sulawesi Tengah,Kabupaten Temanggung,Electronics,Online,Credit Card,215592,2,9.9,4.2,110.174797,-7.316669
+TRX00254,2024-08-24,Provinsi Bali,Kabupaten Minahasa Tenggara,Health & Beauty,Hybrid,Bank Transfer,455042,5,13.5,4.7,124.7298765,1.0278551
+TRX00255,2024-10-27,Provinsi Kalimantan Tengah,Kabupaten Tulungagung,Electronics,Hybrid,Credit Card,1489571,2,6,4.1,111.9,-8.0666667
+TRX00256,2024-04-05,Provinsi Bali,Kota Singkawang,Electronics,Hybrid,Credit Card,232896,3,5.5,4.7,108.984596,0.908795
+TRX00257,2024-10-27,Provinsi Jambi,Kota Sibolga,Electronics,Offline,Digital Wallet,97828,4,44.2,4.6,98.7827988,1.7403745
+TRX00258,2024-11-06,Provinsi Sulawesi Barat,Kabupaten Muna,Food & Beverage,Offline,Digital Wallet,332915,3,2.3,4.8,122.6277455,-4.901629
+TRX00259,2024-07-09,Provinsi Kepulauan Bangka Belitung,Kabupaten Lamandau,Food & Beverage,Offline,Digital Wallet,1586166,3,30.1,4.9,111.1891151,-1.9269166
+TRX00260,2024-07-20,Provinsi Maluku Utara,Kabupaten Kapuas,Fashion,Offline,Bank Transfer,139873,3,14.7,4.7,110.1313251,-0.0459972
+TRX00261,2024-12-06,Provinsi Sumatera Selatan,Kabupaten Rejang Lebong,Fashion,Offline,Cash,425933,4,5.9,4.4,102.6675575,-3.4548154
+TRX00262,2024-08-04,Provinsi Maluku Utara,Kabupaten Bungo,Health & Beauty,Offline,Cash,1428693,5,16.7,4.2,101.8891721,-1.6401338
+TRX00263,2024-09-06,Provinsi Kepulauan Bangka Belitung,Kota Banjar Baru,Health & Beauty,Online,Cash,572214,2,17.2,4.3,114.75,-3.4666667
+TRX00264,2024-06-17,Provinsi Nusa Tenggara Barat,Kabupaten Brebes,Electronics,Online,Digital Wallet,962471,2,58.7,4.4,109.05,-6.8833333
+TRX00265,2024-05-12,Provinsi Bali,Kabupaten Ngada,Fashion,Offline,Digital Wallet,2769897,4,38.8,3.7,120.9876321,-8.7430424
+TRX00266,2024-01-16,Provinsi Jawa Tengah,Kabupaten Bengkalis,Fashion,Offline,Bank Transfer,1343934,7,13.9,3.9,102.0797222,1.4897222
+TRX00267,2024-05-01,Provinsi Sulawesi Barat,Kabupaten Wonogiri,Electronics,Offline,Cash,986118,0,22.8,4,110.920601,-7.817782
+TRX00268,2024-06-05,Provinsi Banten,Kabupaten Lingga,Home & Living,Hybrid,Bank Transfer,892094,2,4.7,3.9,104.6354631,-0.1627686
+TRX00269,2024-07-01,Provinsi Papua,Kabupaten Manggarai Barat,Electronics,Online,Credit Card,171429,5,10.4,4.1,120.0665236,-8.6688149
+TRX00270,2024-03-08,Provinsi Jawa Timur,Kota Bitung,Food & Beverage,Online,Credit Card,1263678,3,9.5,4.2,125.204697,1.4553529
+TRX00271,2024-09-17,Provinsi Sulawesi Tenggara,Kabupaten Bantaeng,Electronics,Online,Cash,938884,3,7.6,3.8,120.0202964,-5.5169316
+TRX00272,2024-06-10,Provinsi Kalimantan Selatan,Kabupaten Kepulauan Mentawai,Home & Living,Online,Bank Transfer,817463,3,28.9,3.1,98.9245343,-1.426001
+TRX00273,2024-07-08,Provinsi Lampung,Kota Batam,Fashion,Online,Credit Card,578122,2,24.4,5.2,104.0304535,1.0456264
+TRX00274,2024-12-19,Provinsi Aceh,Kabupaten Lampung Utara,Food & Beverage,Online,Cash,153168,2,19.8,3.8,104.7520939,-4.8133905
+TRX00275,2024-08-13,Provinsi Sumatera Selatan,Kabupaten Majene,Food & Beverage,Offline,Cash,636624,4,40.2,4.7,118.9062794,-3.0297251
+TRX00276,2024-02-25,Provinsi Kalimantan Selatan,Kota Solok,Food & Beverage,Online,Bank Transfer,1915131,6,9.2,3.9,100.644402,-0.803027
+TRX00277,2024-03-12,Provinsi Sumatera Selatan,Kabupaten Pasaman,Fashion,Online,Bank Transfer,296152,1,2.5,4.4,99.7901781,0.1288752
+TRX00278,2024-01-28,Provinsi Jambi,Kabupaten Karimun,Electronics,Online,Digital Wallet,90174,2,7,4.1,103.3666667,1.05
+TRX00279,2024-10-09,Provinsi Sulawesi Selatan,Kabupaten Murung Raya,Electronics,Offline,Credit Card,3431020,2,13.4,4.5,114.3341432,-0.1362171
+TRX00280,2024-09-01,Provinsi Kepulauan Bangka Belitung,Kabupaten Kotawaringin Timur,Home & Living,Online,Credit Card,310538,4,20,3.3,106.8630737,-6.1952992
+TRX00281,2024-11-30,Provinsi Maluku Utara,Kabupaten Konawe Selatan,Fashion,Online,Bank Transfer,1707767,3,31.8,4.3,122.4467238,-4.2027915
+TRX00282,2024-11-10,Provinsi Sumatera Barat,Kota Bau-Bau,Food & Beverage,Online,Cash,1019063,0,32.9,4.1,122.633,-5.46667
+TRX00283,2024-02-09,Provinsi Papua Barat,Kabupaten Belitung,Fashion,Online,Credit Card,2864993,1,35.8,4.9,107.9531836,-2.8708938
+TRX00284,2024-04-12,Provinsi Kalimantan Timur,Kota Probolinggo,Food & Beverage,Offline,Credit Card,523478,1,18.1,4,113.211502,-7.756928
+TRX00285,2024-09-27,Provinsi Nusa Tenggara Barat,Kota Lubuklinggau,Electronics,Hybrid,Bank Transfer,404293,3,7.8,4,102.8616667,-3.2966667
+TRX00286,2024-11-04,Provinsi Kalimantan Selatan,Kabupaten Sukamara,Electronics,Offline,Cash,3086654,4,9.3,3.3,111.2368084,-2.6267517
+TRX00287,2024-10-13,Provinsi Kalimantan Timur,Kabupaten Maluku Tenggara,Food & Beverage,Offline,Bank Transfer,4717880,3,5.7,4.3,132.7271587,-5.7512455
+TRX00288,2024-08-01,Provinsi Sulawesi Tengah,Kabupaten Wakatobi,Food & Beverage,Offline,Cash,750773,1,6.2,4.5,123.5951925,-5.3264442
+TRX00289,2024-10-05,Provinsi Maluku,Kabupaten Belitung Timur,Home & Living,Online,Bank Transfer,647056,2,4.8,4.1,107.9531836,-2.8708938
+TRX00290,2024-08-01,Provinsi Riau,Kabupaten Probolinggo,Food & Beverage,Offline,Cash,1147034,3,37,3.9,113.210675,-7.753965
+TRX00291,2024-03-05,Provinsi Bali,Kabupaten Sukabumi,Health & Beauty,Online,Credit Card,278676,1,6.7,4.4,106.922203,-6.92405
+TRX00292,2024-10-10,Provinsi Sumatera Selatan,Kabupaten Trenggalek,Electronics,Online,Credit Card,898217,1,31.4,3.6,111.7166667,-8.05
+TRX00293,2024-08-05,Provinsi Sulawesi Selatan,Kota Batu,Health & Beauty,Offline,Digital Wallet,202953,5,17.1,4.4,112.5239,-7.8671
+TRX00294,2024-09-26,Provinsi Papua Barat,Kabupaten Kutai Kartanegara,Home & Living,Hybrid,Cash,405494,2,17.3,4.7,116.6081653,-0.1336655
+TRX00295,2024-06-12,Provinsi Sulawesi Tenggara,Kabupaten Sorong Selatan,Fashion,Online,Bank Transfer,1208903,1,36.5,4.1,131.25,-0.8666667
+TRX00296,2024-10-15,Provinsi DKI Jakarta,Kabupaten Sukoharjo,Fashion,Offline,Digital Wallet,254584,1,19.8,4,110.8195292,-7.6808818
+TRX00297,2024-12-05,Provinsi Kalimantan Tengah,Kabupaten Konawe,Food & Beverage,Offline,Credit Card,1278504,1,10.5,4,122.0837445,-3.9380432
+TRX00298,2024-03-25,Provinsi Papua,Kabupaten Rokan Hilir,Home & Living,Hybrid,Digital Wallet,902135,3,5.3,4.4,100.8000051,1.6463978
+TRX00299,2024-04-26,Provinsi Lampung,Kota Prabumulih,Fashion,Online,Digital Wallet,2290047,2,21.5,3.6,104.235397,-3.440956
+TRX00300,2024-10-17,Provinsi Bali,Kabupaten Landak,Fashion,Online,Bank Transfer,4761167,3,14.2,3.8,109.7591675,0.4237287
+TRX00301,2024-01-31,Provinsi Maluku,Kabupaten Kaimana,Home & Living,Online,Bank Transfer,307111,6,26.8,3.5,133.774506,-3.660925
+TRX00302,2024-08-16,Provinsi DI Yogyakarta,Kabupaten Mimika,Home & Living,Online,Cash,806920,2,24.7,4.1,137.1362125,-4.4553223
+TRX00303,2024-06-05,Provinsi Sulawesi Utara,Kabupaten Toba Samosir,Home & Living,Offline,Digital Wallet,2594759,3,31,4.2,99.2785583,2.3502398
+TRX00304,2024-04-08,Provinsi Bengkulu,Kabupaten Pinrang,Fashion,Hybrid,Bank Transfer,666227,0,21.1,4.2,119.6408,-3.793071
+TRX00305,2024-01-25,Provinsi Sumatera Barat,Kabupaten Jayapura,Food & Beverage,Offline,Cash,283943,3,36,4.1,140.717,-2.533
+TRX00306,2024-03-15,Provinsi Papua,Kabupaten Kutai Barat,Home & Living,Online,Digital Wallet,201344,2,16.5,3.3,115.094045,0.1353881
+TRX00307,2024-12-11,Provinsi Sulawesi Utara,Kota Metro,Food & Beverage,Hybrid,Digital Wallet,2215048,2,17.7,3.6,105.3,-5.1166667
+TRX00308,2024-09-25,Provinsi Jawa Timur,Kabupaten Badung,Home & Living,Online,Digital Wallet,7347216,0,21.2,4.1,115.1770586,-8.5819296
+TRX00309,2024-07-19,Provinsi Sulawesi Tenggara,Kabupaten Aceh Utara,Electronics,Online,Digital Wallet,191576,3,7.5,4.3,97.2221421,4.9786331
+TRX00310,2024-03-08,Provinsi Sulawesi Utara,Kabupaten Biak Numfor,Electronics,Hybrid,Cash,609795,2,6.8,4.3,135.9800848,-1.0381022
+TRX00311,2024-03-26,Provinsi Kalimantan Timur,Kabupaten Bangkalan,Electronics,Online,Cash,113808,4,15.9,3.7,112.7450068,-7.0306912
+TRX00312,2024-10-09,Provinsi Sulawesi Tenggara,Kabupaten Paser,Fashion,Online,Bank Transfer,585377,4,5.4,4.7,115.9467997,-1.7175266
+TRX00313,2024-01-22,Provinsi Jawa Barat,Kabupaten Karang Asem,Home & Living,Online,Bank Transfer,401579,4,21.5,4.2,108.0503042,-6.3996057
+TRX00314,2024-07-27,Provinsi Lampung,Kabupaten Pemalang,Home & Living,Online,Credit Card,539440,2,35.5,4,109.377998,-6.884234
+TRX00315,2024-06-15,Provinsi Papua,Kabupaten Situbondo,Home & Living,Online,Credit Card,9871820,5,9.4,4.3,113.955605,-7.702534
+TRX00316,2024-11-10,Provinsi Kalimantan Selatan,Kabupaten Ketapang,Fashion,Offline,Credit Card,134815,1,20.8,4.6,109.971901,-1.859098
+TRX00317,2024-04-16,Provinsi Jambi,Kota Bau-Bau,Food & Beverage,Hybrid,Bank Transfer,841090,2,4.6,4.5,122.633,-5.46667
+TRX00318,2024-11-25,Provinsi Jawa Tengah,Kota Bogor,Electronics,Online,Bank Transfer,3412645,4,38.9,4,106.8,-6.6
+TRX00319,2024-03-28,Provinsi Nusa Tenggara Timur,Kabupaten Lamongan,Food & Beverage,Online,Credit Card,296356,3,15,3.6,109.3946794,-7.406153
+TRX00320,2024-12-15,Provinsi Maluku Utara,Kabupaten Donggala,Food & Beverage,Online,Credit Card,240626,1,20.7,4.6,119.8352303,-0.4233155
+TRX00321,2024-06-10,Provinsi Sulawesi Selatan,Kabupaten Natuna,Food & Beverage,Online,Credit Card,573005,4,25.7,3.7,108.1812242,3.9329945
+TRX00322,2024-03-28,Provinsi Kalimantan Barat,Kabupaten Kuningan,Electronics,Offline,Credit Card,2004473,1,17.2,3.9,108.4833333,-6.9833333
+TRX00323,2024-01-18,Provinsi Sulawesi Barat,Kota Tangerang Selatan,Electronics,Online,Cash,387401,4,40.9,4.8,106.7180556,-6.2888889
+TRX00324,2024-08-09,Provinsi Kepulauan Bangka Belitung,Kabupaten Aceh Tenggara,Food & Beverage,Offline,Bank Transfer,195741,3,29.5,3.9,97.6982272,3.3088666
+TRX00325,2024-05-19,Provinsi Banten,Kabupaten Majalengka,Home & Living,Online,Digital Wallet,585891,2,12.7,4.1,108.2258897,-6.8531026
+TRX00326,2024-12-07,Provinsi Kalimantan Tengah,Kabupaten Batanghari,Home & Living,Online,Credit Card,72586,0,33.3,4.4,103.0817903,-1.7083922
+TRX00327,2024-07-12,Provinsi Papua,Kabupaten Katingan,Electronics,Hybrid,Cash,124852,4,31.7,4.9,112.8105512,-0.9758379
+TRX00328,2024-03-13,Provinsi Kepulauan Bangka Belitung,Kabupaten Karang Asem,Health & Beauty,Online,Cash,1618165,4,26.4,3.7,108.0503042,-6.3996057
+TRX00329,2024-11-25,Provinsi DKI Jakarta,Kabupaten Gorontalo Utara,Food & Beverage,Hybrid,Bank Transfer,863851,2,15,4.6,122.4920088,0.9252647
+TRX00330,2024-08-11,Provinsi Aceh,Kota Cirebon,Food & Beverage,Offline,Cash,62090,3,19.2,4.2,108.564003,-6.715534
+TRX00331,2024-08-22,Provinsi DKI Jakarta,Kabupaten Tulangbawang,Health & Beauty,Online,Credit Card,1012524,2,37.5,4.9,105.5005483,-4.3176576
+TRX00332,2024-04-07,Provinsi Sulawesi Tengah,Kabupaten Kota Baru,Home & Living,Offline,Bank Transfer,54478,4,44,4.7,106.807915,-6.332973
+TRX00333,2024-01-03,Provinsi DI Yogyakarta,Kota Bontang,Fashion,Online,Digital Wallet,349190,5,25,4.2,117.5,0.1333333
+TRX00334,2024-04-14,Provinsi Maluku Utara,Kabupaten Samosir,Fashion,Online,Bank Transfer,736623,5,10.1,3.8,98.8166667,2.5833333
+TRX00335,2024-12-21,Provinsi DI Yogyakarta,Kabupaten Labuhanbatu,Health & Beauty,Offline,Bank Transfer,130858,0,34.5,3.6,100.1703257,2.3439863
+TRX00336,2024-05-12,Provinsi Kalimantan Barat,Kabupaten Bolang Mongondow Timur,Food & Beverage,Online,Bank Transfer,1939300,1,22.4,3.7,124.4641848,0.7152651
+TRX00337,2024-01-23,Provinsi Sulawesi Utara,Kabupaten Tuban,Electronics,Hybrid,Bank Transfer,1839209,3,44.3,4,115.1711298,-8.7493146
+TRX00338,2024-04-16,Provinsi Sulawesi Barat,Kabupaten Dharmas Raya,Electronics,Online,Bank Transfer,278030,3,4.3,3.6,101.6157773,-1.1120568
+TRX00339,2024-09-26,Provinsi Kepulauan Riau,Kabupaten Way Kanan,Home & Living,Online,Bank Transfer,1675065,5,10.7,4.1,104.5655273,-4.4963689
+TRX00340,2024-03-26,Provinsi Bengkulu,Kabupaten Malinau,Electronics,Online,Credit Card,664566,0,29.6,3.9,116.647797,3.584221
+TRX00341,2024-07-12,Provinsi Kalimantan Selatan,Kabupaten Banjar,Electronics,Online,Digital Wallet,1045968,2,5.8,5.2,108.5333333,-7.3666667
+TRX00342,2024-01-08,Provinsi Papua Barat,Kabupaten Lampung Utara,Food & Beverage,Online,Cash,1068049,5,9.7,4.7,104.7520939,-4.8133905
+TRX00343,2024-07-07,Provinsi DKI Jakarta,Kabupaten Sukabumi,Fashion,Online,Digital Wallet,151173,4,27.8,4.5,106.922203,-6.92405
+TRX00344,2024-06-18,Provinsi Nusa Tenggara Barat,Kabupaten Kerinci,Fashion,Online,Credit Card,71986,6,3.7,3.9,101.4339148,-1.8720467
+TRX00345,2024-06-17,Provinsi Jawa Barat,Kota Prabumulih,Food & Beverage,Online,Bank Transfer,4953805,2,33.8,5.2,104.235397,-3.440956
+TRX00346,2024-01-04,Provinsi Bengkulu,Kabupaten Bintan,Home & Living,Online,Credit Card,688128,5,13.2,4.1,104.5189214,1.0619173
+TRX00347,2024-02-27,Provinsi Sumatera Barat,Kabupaten Tapanuli Utara,Food & Beverage,Online,Cash,794909,3,24.3,4.2,99.1013498,2.0405246
+TRX00348,2024-02-11,Provinsi Nusa Tenggara Barat,Kabupaten Merauke,Electronics,Offline,Digital Wallet,165607,3,11,3.2,140.3945527,-8.4960406
+TRX00349,2024-07-14,Provinsi Sumatera Selatan,Kabupaten Tolikara,Fashion,Online,Bank Transfer,1694486,3,3.7,4.7,138.4787258,-3.481132
+TRX00350,2024-06-15,Provinsi Maluku,Kabupaten Puncak Jaya,Electronics,Online,Digital Wallet,3435995,3,7.6,4.2,137.1847222,-4.0836111
+TRX00351,2024-05-05,Provinsi Sumatera Selatan,Kabupaten Rejang Lebong,Electronics,Hybrid,Digital Wallet,2516074,3,9.1,3.7,102.6675575,-3.4548154
+TRX00352,2024-04-23,Provinsi Sulawesi Barat,Kabupaten Mamasa,Food & Beverage,Online,Digital Wallet,72165,2,28.2,4.2,119.368202,-2.960135
+TRX00353,2024-11-02,Provinsi Sulawesi Barat,Kabupaten Aceh Tengah,Fashion,Offline,Bank Transfer,192882,1,14.9,4.7,96.8350999,4.4482641
+TRX00354,2024-09-07,Provinsi Papua Barat,Kota Sibolga,Food & Beverage,Hybrid,Digital Wallet,602072,5,16.3,4.2,98.7827988,1.7403745
+TRX00355,2024-12-10,Provinsi Aceh,Kabupaten Bangka Tengah,Fashion,Hybrid,Cash,1096004,3,42.5,4.4,106.0640179,-2.2884782
+TRX00356,2024-08-27,Provinsi Jawa Timur,Kabupaten Gunung Mas,Electronics,Offline,Credit Card,316935,2,8.3,4.7,106.9913889,-6.7052778
+TRX00357,2024-10-07,Provinsi Kepulauan Riau,Kabupaten Dairi,Electronics,Offline,Digital Wallet,231374,2,31,3.7,98.265058,2.8675801
+TRX00358,2024-02-09,Provinsi Jambi,Kota Tanjung Balai,Food & Beverage,Online,Digital Wallet,687025,1,33.6,4.1,99.800331,2.965122
+TRX00359,2024-11-18,Provinsi Jambi,Kabupaten Merangin,Fashion,Online,Credit Card,212713,2,14.1,4.5,101.9804613,-2.1752789
+TRX00360,2024-04-01,Provinsi Bali,Kabupaten Rokan Hilir,Food & Beverage,Online,Cash,4213670,4,28,3.5,100.8000051,1.6463978
+TRX00361,2024-04-09,Provinsi Sumatera Utara,Kabupaten Tapanuli Selatan,Food & Beverage,Online,Digital Wallet,87978,5,1.9,4.8,99.2785583,1.5774933
+TRX00362,2024-10-19,Provinsi Sulawesi Tenggara,Kabupaten Musi Rawas,Electronics,Online,Credit Card,908121,1,25.5,3.7,102.989615,-2.8625305
+TRX00363,2024-01-02,Provinsi DKI Jakarta,Kabupaten Sarolangun,Food & Beverage,Offline,Cash,74162,2,25.3,4.3,102.6905326,-2.2654937
+TRX00364,2024-06-10,Provinsi Bali,Kabupaten Kotawaringin Barat,Health & Beauty,Online,Bank Transfer,333040,3,27.4,4.3,106.8630174,-6.1961131
+TRX00365,2024-09-28,Provinsi Jawa Tengah,Kabupaten Buru,Home & Living,Online,Digital Wallet,2408892,3,46.6,3.9,126.7819505,-3.3927754
+TRX00366,2024-12-05,Provinsi Maluku,Kabupaten Indramayu,Home & Living,Online,Digital Wallet,1676316,4,8.8,4.3,108.325104,-6.336315
+TRX00367,2024-07-19,Provinsi Maluku Utara,Kabupaten Berau,Fashion,Offline,Digital Wallet,134656,3,52,4.1,117.3616476,2.0450883
+TRX00368,2024-11-02,Provinsi Bali,Kabupaten Belitung,Fashion,Hybrid,Cash,124772,6,8.7,4.6,107.9531836,-2.8708938
+TRX00369,2024-05-08,Provinsi Kepulauan Bangka Belitung,Kabupaten Keerom,Fashion,Offline,Bank Transfer,578646,3,4.1,3.5,140.7624493,-3.3449536
+TRX00370,2024-10-27,Provinsi Kepulauan Bangka Belitung,Kabupaten Lampung Tengah,Food & Beverage,Offline,Cash,210526,1,36,4.8,105.3131185,-4.8008086
+TRX00371,2024-04-09,Provinsi Kalimantan Selatan,Kota Kendari,Food & Beverage,Offline,Credit Card,819222,4,31.7,4.1,122.5149028,-3.972201
+TRX00372,2023-12-31,Provinsi Papua Barat,Kabupaten Donggala,Fashion,Offline,Cash,204107,1,17,3.8,119.8352303,-0.4233155
+TRX00373,2024-04-15,Provinsi Sumatera Utara,Kabupaten Kutai Timur,Fashion,Online,Credit Card,109122,3,40.8,3.7,116.9852422,0.9433774
+TRX00374,2024-09-09,Provinsi Aceh,Kabupaten Gresik,Electronics,Online,Digital Wallet,355106,2,4.5,4.7,112.6555,-7.15665
+TRX00375,2024-01-21,Provinsi Nusa Tenggara Barat,Kota Tidore Kepulauan,Food & Beverage,Online,Bank Transfer,160513,3,7.2,3.4,127.4,0.6833333
+TRX00376,2024-10-24,Provinsi Bengkulu,Kabupaten Pacitan,Fashion,Online,Cash,1618455,7,10.9,4.3,111.08769,-8.204614
+TRX00377,2024-11-13,Provinsi Sulawesi Tenggara,Kabupaten Sukoharjo,Food & Beverage,Online,Cash,390637,1,1.5,3.9,110.8195292,-7.6808818
+TRX00378,2024-03-06,Provinsi Bengkulu,Kabupaten Melawi,Electronics,Online,Digital Wallet,525707,4,17.7,3.8,111.6660725,-0.7000681
+TRX00379,2024-09-30,Provinsi Jambi,Kota Pare-Pare,Food & Beverage,Offline,Cash,2171506,2,5.1,4.1,119.6236111,-4.0166667
+TRX00380,2024-03-05,Provinsi DKI Jakarta,Kabupaten Dompu,Home & Living,Offline,Credit Card,3499608,4,15.2,4.2,118.4747173,-8.4966318
+TRX00381,2024-09-15,Provinsi Sulawesi Tenggara,Kabupaten Sijunjung,Home & Living,Hybrid,Cash,517824,2,4.3,4,100.997658,-0.6881586
+TRX00382,2024-09-10,Provinsi Maluku Utara,Kabupaten Nias Barat,Food & Beverage,Offline,Cash,761981,2,45.3,3.8,97.5247243,1.1255279
+TRX00383,2024-08-03,Provinsi DKI Jakarta,Kota Manado,Electronics,Online,Bank Transfer,2021677,4,16.1,4.6,124.842843,1.4917014
+TRX00384,2024-07-14,Provinsi Gorontalo,Kabupaten Gianyar,Electronics,Hybrid,Bank Transfer,458575,1,17.2,4.5,115.3255,-8.544185
+TRX00385,2024-07-21,Provinsi Papua,Kota Lhokseumawe,Food & Beverage,Offline,Bank Transfer,192281,5,54.8,5,97.1402778,5.1880556
+TRX00386,2024-07-29,Provinsi Papua Barat,Kabupaten Lombok Tengah,Electronics,Online,Digital Wallet,1475549,4,9.6,3.7,116.2777073,-8.694623
+TRX00387,2024-06-24,Provinsi Kalimantan Timur,Kabupaten Deiyai,Home & Living,Hybrid,Digital Wallet,118861,2,4.6,3.7,136.4393054,-4.0974893
+TRX00388,2024-12-09,Provinsi Kalimantan Tengah,Kota Sukabumi,Health & Beauty,Online,Bank Transfer,427234,7,12,3.8,106.922203,-6.92405
+TRX00389,2024-05-26,Provinsi Papua Barat,Kabupaten Pohuwato,Electronics,Hybrid,Credit Card,365194,0,11.6,3.6,121.7195459,0.7055278
+TRX00390,2024-04-20,Provinsi Jawa Timur,Kabupaten Kayong Utara,Food & Beverage,Online,Bank Transfer,323708,2,26,5.2,110.0449662,-0.9225877
+TRX00391,2024-12-01,Provinsi Papua Barat,Kota Sungai Penuh,Home & Living,Online,Credit Card,34778,1,15.6,2.9,101.387199,-2.06314
+TRX00392,2024-02-28,Provinsi Bengkulu,Kabupaten Bangkalan,Fashion,Hybrid,Credit Card,303592,2,5.4,3.5,112.7450068,-7.0306912
+TRX00393,2024-04-11,Provinsi DI Yogyakarta,Kota Tomohon,Fashion,Offline,Credit Card,1937005,1,17.3,3.8,124.8384504,1.3234131
+TRX00394,2024-05-05,Provinsi Sulawesi Tengah,Kabupaten Yahukimo,Food & Beverage,Offline,Digital Wallet,341625,5,30.9,4.1,139.5279996,-4.4939717
+TRX00395,2024-01-28,Provinsi Sumatera Barat,Kota Batu,Fashion,Online,Cash,293989,5,5.8,4.1,112.5239,-7.8671
+TRX00396,2024-02-16,Provinsi Kalimantan Timur,Kabupaten Lampung Timur,Fashion,Offline,Bank Transfer,280464,7,40.6,4.7,105.6881788,-5.1134995
+TRX00397,2024-08-19,Provinsi DKI Jakarta,Kabupaten Mandailing Natal,Fashion,Offline,Digital Wallet,227658,3,55.1,4.8,99.3673084,0.7432372
+TRX00398,2024-04-21,Provinsi Maluku Utara,Kabupaten Sintang,Home & Living,Online,Cash,631821,0,15.4,3.7,111.495499,0.080238
+TRX00399,2024-12-07,Provinsi Sumatera Barat,Kabupaten Bengkulu Utara,Electronics,Online,Bank Transfer,987687,6,27.4,4.3,102.1632718,-3.4219555
+TRX00400,2024-10-22,Provinsi Lampung,Kabupaten Labuhanbatu,Fashion,Offline,Credit Card,2324571,3,9.5,3.4,100.1703257,2.3439863
+TRX00401,2024-01-02,Provinsi Sulawesi Tenggara,Kota Cilegon,Home & Living,Offline,Credit Card,114034,4,16.3,4.6,106.040506,-6.0169825
+TRX00402,2024-05-24,Provinsi Sulawesi Tenggara,Kabupaten Wonosobo,Fashion,Online,Digital Wallet,810733,3,7.9,3.8,109.899399,-7.362109
+TRX00403,2024-04-01,Provinsi Sulawesi Tengah,Kabupaten Seluma,Health & Beauty,Online,Cash,468413,1,42.6,4.4,102.5642261,-4.0622929
+TRX00404,2024-04-06,Provinsi Gorontalo,Kabupaten Tebo,Home & Living,Offline,Bank Transfer,726233,4,5.2,3.7,102.3463875,-1.2592999
+TRX00405,2024-09-29,Provinsi Gorontalo,Kabupaten Kapuas,Fashion,Hybrid,Digital Wallet,194585,4,31.3,4.2,110.1313251,-0.0459972
+TRX00406,2024-06-20,Provinsi Jawa Tengah,Kabupaten Pangkajene Dan Kepulauan,Food & Beverage,Online,Digital Wallet,571404,4,11.3,4.2,119.5571677,-4.805035
+TRX00407,2024-09-26,Provinsi Jawa Timur,Kota Bukittinggi,Food & Beverage,Online,Cash,172254,2,8,3.7,100.3691667,-0.3055556
+TRX00408,2024-08-20,Provinsi Maluku Utara,Kabupaten Lombok Timur,Home & Living,Hybrid,Credit Card,1056047,2,53.9,4.4,116.5609857,-8.5134471
+TRX00409,2024-01-16,Provinsi Jawa Tengah,Kabupaten Minahasa Selatan,Fashion,Online,Cash,211960,3,21.7,5.8,124.4641848,1.0946773
+TRX00410,2024-06-07,Provinsi DKI Jakarta,Kabupaten Demak,Health & Beauty,Offline,Cash,581803,6,25.7,4.2,110.639297,-6.888115
+TRX00411,2024-02-08,Provinsi Kalimantan Selatan,Kabupaten Kerinci,Health & Beauty,Online,Digital Wallet,65063,3,23.2,4,101.4339148,-1.8720467
+TRX00412,2024-07-01,Provinsi Sulawesi Utara,Kota Bima,Electronics,Offline,Cash,757143,1,32.2,3.9,118.727402,-8.460566
+TRX00413,2024-01-29,Provinsi Jawa Barat,Kabupaten Rokan Hulu,Fashion,Offline,Cash,1652935,3,21,4,100.439656,1.0410934
+TRX00414,2024-06-14,Provinsi Sulawesi Selatan,Kabupaten Nias Utara,Electronics,Hybrid,Credit Card,1174676,3,1.5,4.3,97.5247243,1.1255279
+TRX00415,2024-02-15,Provinsi Kalimantan Barat,Kabupaten Bangka Tengah,Home & Living,Hybrid,Cash,1565966,2,31.7,3.8,106.0640179,-2.2884782
+TRX00416,2024-10-21,Provinsi Gorontalo,Kabupaten Bengkalis,Health & Beauty,Offline,Bank Transfer,140702,2,27.4,5,102.0797222,1.4897222
+TRX00417,2024-07-17,Provinsi Banten,Kota Bogor,Fashion,Online,Credit Card,460947,7,22.9,4.5,106.8,-6.6
+TRX00418,2024-01-11,Provinsi Sumatera Utara,Kabupaten Seram Bagian Barat,Electronics,Online,Digital Wallet,509222,0,22,4.7,128.4008357,-3.1271575
+TRX00419,2024-07-10,Provinsi Nusa Tenggara Timur,Kota Yogyakarta,Fashion,Hybrid,Credit Card,1121902,6,13.8,4.9,110.368797,-7.797224
+TRX00420,2024-05-30,Provinsi Jawa Tengah,Kabupaten Tulangbawang,Fashion,Online,Digital Wallet,461648,11,12,3.7,105.5005483,-4.3176576
+TRX00421,2024-01-29,Provinsi Maluku,Kabupaten Gianyar,Food & Beverage,Online,Bank Transfer,445549,1,17.3,3.7,115.3255,-8.544185
+TRX00422,2024-04-04,Provinsi Jambi,Kabupaten Boalemo,Electronics,Online,Credit Card,2924016,5,14.7,4.4,122.2653887,0.7013419
+TRX00423,2024-08-23,Provinsi Bengkulu,Kota Magelang,Fashion,Offline,Cash,1625418,3,8.3,4,110.213799,-7.481253
+TRX00424,2024-02-09,Provinsi Banten,Kabupaten Belitung,Electronics,Online,Credit Card,94268,5,18.5,4.5,107.9531836,-2.8708938
+TRX00425,2024-06-28,Provinsi Nusa Tenggara Timur,Kota Surabaya,Health & Beauty,Online,Digital Wallet,371658,5,6.6,4.2,112.734398,-7.289166
+TRX00426,2024-05-10,Provinsi Sulawesi Selatan,Kabupaten Sorong Selatan,Food & Beverage,Online,Bank Transfer,202437,3,26.1,4.6,131.25,-0.8666667
+TRX00427,2024-10-17,Provinsi Kepulauan Riau,Kabupaten Karawang,Electronics,Online,Bank Transfer,10659109,5,15.6,3.4,107.3375791,-6.3227303
+TRX00428,2024-05-29,Provinsi Kepulauan Riau,Kabupaten Lombok Utara,Electronics,Online,Digital Wallet,333036,4,69.3,4.6,116.2777073,-8.3739076
+TRX00429,2024-06-29,Provinsi Sulawesi Tenggara,Kabupaten Jember,Electronics,Offline,Credit Card,1720938,1,49.2,3.3,113.700302,-8.172357
+TRX00430,2024-10-29,Provinsi Sulawesi Barat,Kabupaten Sragen,Home & Living,Offline,Bank Transfer,601157,2,30.2,4.2,111.021301,-7.430229
+TRX00431,2024-06-29,Provinsi Maluku,Kabupaten Ciamis,Home & Living,Offline,Credit Card,608755,6,13.2,4.4,108.35,-7.3333333
+TRX00432,2024-02-18,Provinsi Kalimantan Timur,Kabupaten Puncak,Home & Living,Online,Bank Transfer,895894,1,40.2,3.8,106.9542425,-6.7125476
+TRX00433,2024-01-30,Provinsi Kalimantan Tengah,Kabupaten Bolang Mongondow Selatan,Health & Beauty,Offline,Bank Transfer,473400,2,5.2,5,123.8411288,0.4053215
+TRX00434,2024-03-16,Provinsi Sumatera Utara,Kabupaten Karo,Fashion,Offline,Cash,1255792,5,45.8,4.3,98.265058,3.1052909
+TRX00435,2024-11-06,Provinsi Kalimantan Timur,Kota Singkawang,Home & Living,Online,Credit Card,955666,3,37,3.4,108.984596,0.908795
+TRX00436,2024-06-14,Provinsi Nusa Tenggara Timur,Kabupaten Luwu,Electronics,Online,Digital Wallet,101240,4,17.3,5,120.2512728,-3.3052214
+TRX00437,2024-11-21,Provinsi Nusa Tenggara Timur,Kabupaten Sumba Timur,Food & Beverage,Online,Cash,313241,3,39.4,4.4,120.3435506,-9.9802103
+TRX00438,2024-11-13,Provinsi Jawa Tengah,Kota Binjai,Fashion,Online,Digital Wallet,323511,3,13.2,4.1,98.482246,3.594462
+TRX00439,2024-05-01,Provinsi Papua,Kabupaten Nduga,Food & Beverage,Online,Cash,329139,0,38.8,4.6,138.2393528,-4.4069496
+TRX00440,2024-04-21,Provinsi Bengkulu,Kabupaten Pasaman,Electronics,Offline,Bank Transfer,1584256,3,27.1,3.6,99.7901781,0.1288752
+TRX00441,2024-07-10,Provinsi Sulawesi Selatan,Kota Sabang,Food & Beverage,Online,Digital Wallet,2415381,3,17.4,4.2,95.3192982,5.8946929
+TRX00442,2024-11-18,Provinsi Bali,Kabupaten Sukamara,Electronics,Hybrid,Bank Transfer,217193,2,14.1,4.3,111.2368084,-2.6267517
+TRX00443,2024-01-13,Provinsi Papua Barat,Kota Blitar,Food & Beverage,Offline,Cash,938254,0,20.4,2.7,112.15,-8.1
+TRX00444,2024-07-09,Provinsi Papua,Kabupaten Hulu Sungai Tengah,Food & Beverage,Online,Cash,169494,4,33.8,4,115.5207358,-2.6153162
+TRX00445,2024-03-19,Provinsi Riau,Kabupaten Biak Numfor,Health & Beauty,Offline,Cash,312781,0,26,3.9,135.9800848,-1.0381022
+TRX00446,2024-03-04,Provinsi Gorontalo,Kabupaten Ogan Komering Ulu Timur,Health & Beauty,Online,Bank Transfer,735868,3,23.7,4.4,104.7520939,-3.8567934
+TRX00447,2024-11-02,Provinsi Kalimantan Tengah,Kabupaten Soppeng,Fashion,Online,Digital Wallet,451991,3,55.5,4.8,119.9277947,-4.3518541
+TRX00448,2024-07-12,Provinsi Kalimantan Timur,Kabupaten Bantaeng,Electronics,Offline,Bank Transfer,276479,2,19.2,4.3,120.0202964,-5.5169316
+TRX00449,2024-06-05,Provinsi Nusa Tenggara Barat,Kota Balikpapan,Electronics,Online,Credit Card,155265,3,7.9,3.8,116.8278833,-1.2635389
+TRX00450,2024-03-13,Provinsi Gorontalo,Kabupaten Wakatobi,Electronics,Offline,Bank Transfer,399742,4,13.3,4.2,123.5951925,-5.3264442
+TRX00451,2024-02-16,Provinsi Maluku Utara,Kota Dumai,Home & Living,Online,Credit Card,575410,5,17.3,3.7,101.447601,1.665742
+TRX00452,2024-05-05,Provinsi Jawa Barat,Kabupaten Kuantan Singingi,Home & Living,Offline,Credit Card,957972,2,12.5,3.7,101.5248055,-0.4411596
+TRX00453,2024-08-23,Provinsi DKI Jakarta,Kabupaten Sukamara,Fashion,Offline,Credit Card,227413,4,30.9,2.9,111.2368084,-2.6267517
+TRX00454,2023-12-29,Provinsi Sulawesi Utara,Kabupaten Takalar,Food & Beverage,Hybrid,Bank Transfer,981754,3,35.4,4.1,119.4875668,-5.4162493
+TRX00455,2024-04-29,Provinsi Maluku,Kabupaten Aceh Barat Daya,Fashion,Hybrid,Bank Transfer,170502,2,10.8,4.5,97.3368031,3.0512643
+TRX00456,2024-05-27,Provinsi DKI Jakarta,Kabupaten Luwu Timur,Fashion,Hybrid,Digital Wallet,316231,4,27.6,4.3,121.1710389,-2.5825518
+TRX00457,2024-10-06,Provinsi Sulawesi Utara,Kabupaten Toli-Toli,Electronics,Online,Credit Card,856592,2,15.6,3.7,120.7579834,0.8768231
+TRX00458,2024-02-10,Provinsi Bali,Kabupaten Solok Selatan,Electronics,Online,Digital Wallet,273163,3,15.8,4,101.2523792,-1.4157329
+TRX00459,2024-08-06,Provinsi Kalimantan Timur,Kabupaten Sukamara,Electronics,Online,Cash,250382,4,31.1,4.8,111.2368084,-2.6267517
+TRX00460,2024-08-18,Provinsi Kepulauan Riau,Kabupaten Sumenep,Fashion,Online,Cash,520741,1,27.3,4.6,113.9060624,-6.9253999
+TRX00461,2024-11-27,Provinsi Riau,Kabupaten Keerom,Food & Beverage,Offline,Cash,565675,6,12.4,4.5,140.7624493,-3.3449536
+TRX00462,2024-07-03,Provinsi Sumatera Selatan,Kabupaten Ogan Komering Ulu,Fashion,Hybrid,Bank Transfer,1390011,3,10.8,4,104.0072348,-4.0283486
+TRX00463,2024-07-07,Provinsi Kepulauan Riau,Kabupaten Jayawijaya,Home & Living,Online,Bank Transfer,432334,4,29.8,4.2,138.7995122,-4.0004481
+TRX00464,2024-10-21,Provinsi Nusa Tenggara Timur,Kabupaten Cilacap,Food & Beverage,Offline,Digital Wallet,99663,3,8.4,3.6,109,-7.733333
+TRX00465,2024-05-19,Provinsi Gorontalo,Kabupaten Morowali,Electronics,Online,Cash,283368,3,11.1,4.2,121.5370003,-2.3003072
+TRX00466,2024-06-30,Provinsi Kepulauan Bangka Belitung,Kota Banjar,Home & Living,Online,Cash,290648,2,22.6,4.4,108.5333333,-7.3666667
+TRX00467,2024-04-13,Provinsi Bengkulu,Kabupaten Karimun,Fashion,Offline,Bank Transfer,214918,3,14,4.2,103.3666667,1.05
+TRX00468,2024-07-01,Provinsi Sulawesi Utara,Kabupaten Soppeng,Fashion,Online,Bank Transfer,753319,3,7,4.3,119.9277947,-4.3518541
+TRX00469,2024-04-20,Provinsi Nusa Tenggara Barat,Kabupaten Nias Utara,Food & Beverage,Offline,Bank Transfer,6663167,6,33.6,3,97.5247243,1.1255279
+TRX00470,2024-04-16,Provinsi Sulawesi Utara,Kota Tanjung Pinang,Fashion,Offline,Digital Wallet,1208038,4,12.7,4.3,104.446464,0.9179205
+TRX00471,2024-01-02,Provinsi Lampung,Kabupaten Lebong,Electronics,Hybrid,Bank Transfer,467662,0,21.5,4,104.382202,-2.992617
+TRX00472,2024-04-16,Provinsi Banten,Kabupaten Lampung Utara,Fashion,Online,Digital Wallet,903478,5,45.8,3.6,104.7520939,-4.8133905
+TRX00473,2024-02-20,Provinsi Nusa Tenggara Barat,Kota Padang,Health & Beauty,Online,Digital Wallet,2310810,5,16.8,4,100.3530556,-0.95
+TRX00474,2024-10-23,Provinsi Sulawesi Barat,Kabupaten Kampar,Food & Beverage,Online,Bank Transfer,400742,2,7.2,4.3,101.1617356,0.146671
+TRX00475,2024-02-22,Provinsi Sulawesi Tengah,Kabupaten Seram Bagian Timur,Health & Beauty,Hybrid,Cash,1061104,3,3.5,3.7,130.390488,-3.4150761
+TRX00476,2024-04-09,Provinsi Banten,Kota Kediri,Electronics,Online,Bank Transfer,957652,2,25.5,4.2,112.011398,-7.816895
+TRX00477,2024-10-10,Provinsi Jambi,Kota Jakarta Pusat,Home & Living,Online,Credit Card,482968,1,13,3.6,106.845172,-6.211544
+TRX00478,2024-01-15,Provinsi Kalimantan Timur,Kabupaten Lamandau,Fashion,Offline,Cash,577744,1,16.3,3.7,111.1891151,-1.9269166
+TRX00479,2024-04-16,Provinsi Sumatera Barat,Kabupaten Sidoarjo,Fashion,Online,Digital Wallet,1047829,4,38.7,5.1,112.7173389,-7.4530278
+TRX00480,2024-03-20,Provinsi Sumatera Selatan,Kota Surakarta,Fashion,Hybrid,Digital Wallet,531842,5,13.8,4.6,110.8166667,-7.5666667
+TRX00481,2024-05-03,Provinsi Sulawesi Tengah,Kota Yogyakarta,Food & Beverage,Online,Credit Card,388804,1,7.4,3.4,110.368797,-7.797224
+TRX00482,2024-06-26,Provinsi Nusa Tenggara Timur,Kabupaten Tapin,Food & Beverage,Offline,Bank Transfer,301447,3,9.9,4.1,115.0465991,-2.9160746
+TRX00483,2024-08-30,Provinsi DKI Jakarta,Kabupaten Lampung Utara,Food & Beverage,Hybrid,Bank Transfer,730367,3,17.5,4.3,104.7520939,-4.8133905
+TRX00484,2024-07-13,Provinsi Jawa Barat,Kota Tomohon,Food & Beverage,Online,Digital Wallet,516752,2,4.6,4,124.8384504,1.3234131
+TRX00485,2024-08-25,Provinsi Papua,Kota Salatiga,Fashion,Offline,Credit Card,376473,3,35.8,4.7,110.4729,-7.302328
+TRX00486,2024-08-25,Provinsi Lampung,Kabupaten Padang Pariaman,Food & Beverage,Offline,Cash,651432,4,30.5,5.3,100.2151578,-0.5546757
+TRX00487,2024-06-18,Provinsi Bengkulu,Kota Semarang,Home & Living,Online,Credit Card,252022,3,36.6,3.9,110.4166667,-6.9666667
+TRX00488,2024-08-30,Provinsi Jawa Timur,Kabupaten Tolikara,Fashion,Hybrid,Bank Transfer,244732,2,15.1,4.6,138.4787258,-3.481132
+TRX00489,2024-02-09,Provinsi Bengkulu,Kabupaten Sumba Barat Daya,Electronics,Online,Bank Transfer,2156305,0,45,4.8,119.13906420000001,-9.539139
+TRX00490,2024-05-02,Provinsi Jawa Tengah,Kabupaten Kolaka Utara,Food & Beverage,Online,Digital Wallet,226157,4,5.8,4.4,121.1710389,-3.1347227
+TRX00491,2024-01-25,Provinsi Kalimantan Barat,Kota Sabang,Food & Beverage,Hybrid,Credit Card,748726,3,24.9,4.4,95.3192982,5.8946929
+TRX00492,2024-06-02,Provinsi Kepulauan Bangka Belitung,Kabupaten Sorong Selatan,Food & Beverage,Online,Digital Wallet,207307,6,34.7,4.8,131.25,-0.8666667
+TRX00493,2024-11-09,Provinsi Jawa Barat,Kabupaten Trenggalek,Food & Beverage,Hybrid,Digital Wallet,433536,2,7.7,4.3,111.7166667,-8.05
+TRX00494,2024-02-25,Provinsi DI Yogyakarta,Kabupaten Siau Tagulandang Biaro,Health & Beauty,Online,Bank Transfer,806696,3,4.7,3.2,125.4124355,2.345964
+TRX00495,2024-06-08,Provinsi Gorontalo,Kabupaten Bangka Selatan,Fashion,Online,Credit Card,198949,2,19.8,4.4,106.0640179,-2.2884782
+TRX00496,2024-09-24,Provinsi Kepulauan Bangka Belitung,Kota Magelang,Home & Living,Online,Credit Card,989920,4,24.9,3.6,110.213799,-7.481253
+TRX00497,2024-03-10,Provinsi Papua Barat,Kabupaten Gresik,Electronics,Online,Digital Wallet,679597,1,18,3.9,112.6555,-7.15665
+TRX00498,2024-05-24,Provinsi Nusa Tenggara Timur,Kabupaten Kendal,Food & Beverage,Online,Digital Wallet,397812,2,10.1,4.1,110.205597,-6.919686
+TRX00499,2024-07-09,Provinsi Jawa Barat,Kabupaten Kerinci,Food & Beverage,Hybrid,Cash,697883,1,6.6,3.1,101.4339148,-1.8720467
+TRX00500,2024-03-27,Provinsi DI Yogyakarta,Kabupaten Jayapura,Fashion,Online,Digital Wallet,588531,5,39.1,4.1,140.717,-2.533
+TRX00501,2024-11-29,Provinsi Kepulauan Riau,Kabupaten Aceh Singkil,Food & Beverage,Offline,Bank Transfer,235788,1,17.7,4.6,97.87216,2.3589459
+TRX00502,2024-07-31,Provinsi Banten,Kabupaten Maros,Home & Living,Hybrid,Bank Transfer,135033,3,20.2,3.9,119.578903,-4.94695
+TRX00503,2024-06-24,Provinsi Kepulauan Riau,Kabupaten Seruyan,Fashion,Online,Cash,607114,5,11.4,3.5,112.4291464,-3.0123467
+TRX00504,2024-06-01,Provinsi Sumatera Utara,Kabupaten Lingga,Fashion,Offline,Cash,199909,1,31.1,4,104.6354631,-0.1627686
+TRX00505,2024-04-09,Provinsi Kalimantan Tengah,Kabupaten Pesisir Selatan,Health & Beauty,Offline,Digital Wallet,527087,4,32.3,3.9,100.8903099,-1.7223147
+TRX00506,2024-08-21,Provinsi Lampung,Kota Bandung,Food & Beverage,Online,Bank Transfer,105058,2,24.9,4.4,107.6098111,-6.9147444
+TRX00507,2024-06-21,Provinsi Papua,Kabupaten Dharmas Raya,Food & Beverage,Online,Bank Transfer,215628,3,18,3.9,101.6157773,-1.1120568
+TRX00508,2024-10-20,Provinsi Papua,Kota Bontang,Electronics,Online,Cash,716728,5,2.5,3.8,117.5,0.1333333
+TRX00509,2024-01-16,Provinsi Jawa Timur,Kabupaten Boalemo,Food & Beverage,Online,Cash,1552944,6,15.3,4.4,122.2653887,0.7013419
+TRX00510,2024-11-03,Provinsi Sulawesi Utara,Kabupaten Sinjai,Food & Beverage,Offline,Bank Transfer,646688,2,34.6,4.4,120.112735,-5.2171961
+TRX00511,2024-08-08,Provinsi Nusa Tenggara Barat,Kabupaten Majene,Food & Beverage,Offline,Digital Wallet,201976,6,3,4.8,118.9062794,-3.0297251
+TRX00512,2024-08-03,Provinsi Banten,Kabupaten Sumba Timur,Food & Beverage,Online,Cash,360412,2,20.4,4.7,120.3435506,-9.9802103
+TRX00513,2024-09-21,Provinsi Riau,Kota Pekanbaru,Electronics,Online,Credit Card,1629814,5,21.9,3.9,101.45,0.5333333
+TRX00514,2024-06-27,Provinsi Gorontalo,Kabupaten Indragiri Hilir,Food & Beverage,Online,Credit Card,917148,2,19.1,4.7,102.989615,-0.1456733
+TRX00515,2024-06-11,Provinsi Nusa Tenggara Timur,Kabupaten Mamuju Utara,Electronics,Online,Digital Wallet,1199458,1,29.1,3.5,119.5107708,-1.5264542
+TRX00516,2024-01-15,Provinsi Kalimantan Timur,Kabupaten Morowali,Electronics,Online,Credit Card,1479243,3,24.6,4.3,121.5370003,-2.3003072
+TRX00517,2024-07-28,Provinsi Lampung,Kabupaten Demak,Fashion,Hybrid,Credit Card,796361,6,34.3,3.2,110.639297,-6.888115
+TRX00518,2024-10-19,Provinsi Nusa Tenggara Timur,Kabupaten Sumba Barat,Electronics,Online,Cash,1655677,4,38.4,4.4,119.3947135,-9.6548326
+TRX00519,2024-05-07,Provinsi Bengkulu,Kabupaten Rokan Hulu,Food & Beverage,Hybrid,Digital Wallet,206308,2,5.9,3.7,100.439656,1.0410934
+TRX00520,2024-03-11,Provinsi Jawa Barat,Kota Pekalongan,Electronics,Hybrid,Digital Wallet,736737,3,11.3,4.2,109.669998,-6.882887
+TRX00521,2024-06-04,Provinsi Sumatera Utara,Kabupaten Kulon Progo,Food & Beverage,Online,Bank Transfer,388815,2,2,4.3,110.1640846,-7.8266798
+TRX00522,2024-08-16,Provinsi Nusa Tenggara Barat,Kabupaten Bolaang Mongondow Utara,Food & Beverage,Offline,Digital Wallet,668024,2,1,3.5,123.5280072,0.818691
+TRX00523,2024-02-28,Provinsi Kalimantan Timur,Kota Salatiga,Food & Beverage,Online,Credit Card,2054901,3,22.2,4.6,110.4729,-7.302328
+TRX00524,2024-10-13,Provinsi DKI Jakarta,Kabupaten Bangkalan,Electronics,Offline,Digital Wallet,903593,0,20.5,4.7,112.7450068,-7.0306912
+TRX00525,2024-07-28,Provinsi Sumatera Utara,Kabupaten Aceh Barat Daya,Fashion,Offline,Credit Card,290891,3,15.2,4.3,97.3368031,3.0512643
+TRX00526,2024-10-02,Provinsi Sulawesi Tengah,Kabupaten Mamasa,Electronics,Hybrid,Bank Transfer,384687,2,36.7,3.6,119.368202,-2.960135
+TRX00527,2024-07-19,Provinsi Sulawesi Tengah,Kabupaten Tulangbawang,Health & Beauty,Hybrid,Cash,210871,2,45.9,3.5,105.5005483,-4.3176576
+TRX00528,2024-03-19,Provinsi Bali,Kabupaten Nduga,Fashion,Hybrid,Digital Wallet,499082,5,40.4,3.4,138.2393528,-4.4069496
+TRX00529,2024-06-21,Provinsi Kalimantan Selatan,Kabupaten Karanganyar,Food & Beverage,Online,Cash,331288,4,17.4,4,110.9508333,-7.5961111
+TRX00530,2024-12-15,Provinsi Jawa Tengah,Kabupaten Yahukimo,Electronics,Online,Digital Wallet,1204907,2,19.6,4.1,139.5279996,-4.4939717
+TRX00531,2024-05-09,Provinsi Kalimantan Selatan,Kabupaten Sumba Tengah,Fashion,Online,Bank Transfer,333572,2,25.1,4.4,119.6962677,-9.4879226
+TRX00532,2024-12-22,Provinsi Sulawesi Tengah,Kabupaten Sijunjung,Food & Beverage,Offline,Cash,1110871,7,2.1,4.6,100.997658,-0.6881586
+TRX00533,2024-12-15,Provinsi Kepulauan Bangka Belitung,Kota Padangsidimpuan,Food & Beverage,Offline,Digital Wallet,1122502,2,8.3,3.9,99.273972,1.380424
+TRX00534,2024-02-02,Provinsi Sulawesi Utara,Kabupaten Purworejo,Food & Beverage,Offline,Digital Wallet,353278,4,35.5,4.8,110.008003,-7.709731
+TRX00535,2024-04-30,Provinsi Jawa Barat,Kabupaten Anambas,Food & Beverage,Online,Credit Card,2273502,2,24.1,4,105.6537231,3.1055459
+TRX00536,2024-11-23,Provinsi Jawa Timur,Kota Sawah Lunto,Electronics,Online,Cash,560881,2,6.1,3.4,100.7763604,-0.6810286
+TRX00537,2024-08-11,Provinsi Jawa Timur,Kabupaten Nagan Raya,Electronics,Online,Cash,284225,2,28.7,4.6,96.4929797,4.1248406
+TRX00538,2024-11-21,Provinsi Sulawesi Tengah,Kabupaten Tanjung Jabung Timur,Fashion,Hybrid,Digital Wallet,588151,6,12.2,4.5,103.89973,-1.3291599
+TRX00539,2024-07-28,Provinsi Jambi,Kota Mojokerto,Food & Beverage,Offline,Cash,202679,3,20.2,4.3,112.4336111,-7.4722222
+TRX00540,2024-11-15,Provinsi DI Yogyakarta,Kabupaten Pacitan,Home & Living,Offline,Digital Wallet,1046889,5,21,4.4,111.08769,-8.204614
+TRX00541,2024-04-28,Provinsi Bali,Kabupaten Minahasa,Health & Beauty,Online,Bank Transfer,223055,3,15.8,4.9,124.5833333,1
+TRX00542,2024-02-02,Provinsi Sumatera Utara,Kota Sabang,Food & Beverage,Online,Cash,1989379,2,17.3,4,95.3192982,5.8946929
+TRX00543,2024-09-12,Provinsi Sulawesi Utara,Kabupaten Lingga,Fashion,Online,Cash,68606,2,17.8,4.7,104.6354631,-0.1627686
+TRX00544,2024-06-25,Provinsi DKI Jakarta,Kabupaten Nabire,Home & Living,Offline,Cash,179491,4,32.3,3.9,135.7520985,-3.5095462
+TRX00545,2024-07-11,Provinsi Papua,Kabupaten Nias Barat,Fashion,Online,Cash,389257,4,40.6,4.9,97.5247243,1.1255279
+TRX00546,2024-02-13,Provinsi Bengkulu,Kabupaten Takalar,Food & Beverage,Hybrid,Digital Wallet,270937,5,30,4.1,119.4875668,-5.4162493
+TRX00547,2024-08-04,Provinsi Jawa Timur,Kota Semarang,Fashion,Online,Bank Transfer,2099659,0,31.5,4.1,110.4166667,-6.9666667
+TRX00548,2024-02-28,Provinsi Sulawesi Selatan,Kabupaten Blitar,Food & Beverage,Online,Cash,513967,1,25.5,4.5,112.162762,-8.1014419
+TRX00549,2024-06-08,Provinsi Kalimantan Timur,Kabupaten Wajo,Health & Beauty,Online,Digital Wallet,778516,3,36.6,4.5,120.0665236,-4.022229
+TRX00550,2024-09-06,Provinsi DKI Jakarta,Kabupaten Pakpak Bharat,Electronics,Online,Bank Transfer,1107604,3,18,4.9,98.299838,2.545786
+TRX00551,2024-02-26,Provinsi Sulawesi Tengah,Kabupaten Serdang Bedagai,Electronics,Offline,Digital Wallet,636168,5,34,4.4,99.0571089,3.3371694
+TRX00552,2024-01-21,Provinsi Kepulauan Riau,Kabupaten Luwu,Food & Beverage,Hybrid,Cash,1427379,3,17,4.7,120.2512728,-3.3052214
+TRX00553,2024-01-12,Provinsi Gorontalo,Kabupaten Lombok Barat,Fashion,Online,Bank Transfer,847509,4,20.4,4.5,116.1123078,-8.6464599
+TRX00554,2024-07-16,Provinsi Sumatera Selatan,Kota Magelang,Fashion,Offline,Credit Card,1097510,1,10.7,4,110.213799,-7.481253
+TRX00555,2024-04-25,Provinsi Jawa Barat,Kabupaten Sumba Timur,Food & Beverage,Online,Bank Transfer,123542,7,15.5,4.8,120.3435506,-9.9802103
+TRX00556,2024-03-12,Provinsi Nusa Tenggara Timur,Kabupaten Musi Rawas,Food & Beverage,Offline,Cash,177020,7,3.1,3.7,102.989615,-2.8625305
+TRX00557,2024-09-11,Provinsi Lampung,Kota Bau-Bau,Food & Beverage,Online,Cash,58920,2,19,4.7,122.633,-5.46667
+TRX00558,2024-08-07,Provinsi Gorontalo,Kabupaten Musi Rawas,Fashion,Online,Digital Wallet,423821,3,17,3.8,102.989615,-2.8625305
+TRX00559,2024-02-06,Provinsi Sumatera Utara,Kabupaten Katingan,Food & Beverage,Offline,Digital Wallet,2285503,1,18.1,4.7,112.8105512,-0.9758379
+TRX00560,2024-11-19,Provinsi Jawa Tengah,Kabupaten Bengkulu Selatan,Fashion,Online,Digital Wallet,205240,2,21.9,4.1,103.035694,-4.3248409
+TRX00561,2024-09-29,Provinsi Nusa Tenggara Timur,Kabupaten Lembata,Home & Living,Online,Bank Transfer,748184,3,2.3,4.2,123.4831906,-8.4719075
+TRX00562,2024-03-23,Provinsi Maluku Utara,Kabupaten Fakfak,Fashion,Online,Bank Transfer,848560,4,10.6,5.2,132.2658282,-2.885237
+TRX00563,2024-05-12,Provinsi DKI Jakarta,Kabupaten Lampung Timur,Fashion,Online,Cash,693056,0,39.1,3.8,105.6881788,-5.1134995
+TRX00564,2024-05-09,Provinsi DKI Jakarta,Kota Medan,Food & Beverage,Hybrid,Digital Wallet,410905,5,13.9,4.7,98.6755979,3.585242
+TRX00565,2024-03-26,Provinsi Sulawesi Barat,Kabupaten Boyolali,Food & Beverage,Hybrid,Digital Wallet,294253,5,37.1,3.9,110.595901,-7.523819
+TRX00566,2024-04-28,Provinsi Papua,Kabupaten Bolang Mongondow Timur,Food & Beverage,Offline,Digital Wallet,288824,4,16.8,4.2,124.4641848,0.7152651
+TRX00567,2024-09-16,Provinsi Sulawesi Tenggara,Kota Padangsidimpuan,Home & Living,Offline,Bank Transfer,555594,1,12.1,4.1,99.273972,1.380424
+TRX00568,2023-12-31,Provinsi Sulawesi Tengah,Kota Blitar,Health & Beauty,Hybrid,Cash,2002644,5,6.6,5.2,112.15,-8.1
+TRX00569,2024-11-14,Provinsi Lampung,Kota Jakarta Selatan,Health & Beauty,Offline,Credit Card,246923,4,8.4,4.8,106.807915,-6.332973
+TRX00570,2024-09-19,Provinsi Papua,Kabupaten Paser,Food & Beverage,Hybrid,Digital Wallet,483016,0,15,4.2,115.9467997,-1.7175266
+TRX00571,2024-03-15,Provinsi Gorontalo,Kabupaten Anambas,Food & Beverage,Offline,Digital Wallet,602961,2,19.4,4.3,105.6537231,3.1055459
+TRX00572,2024-08-14,Provinsi Lampung,Kota Yogyakarta,Fashion,Online,Cash,1204715,3,29.2,4.2,110.368797,-7.797224
+TRX00573,2024-06-07,Provinsi Banten,Kabupaten Kutai Timur,Fashion,Offline,Bank Transfer,433225,0,18.9,3.5,116.9852422,0.9433774
+TRX00574,2024-09-03,Provinsi Kepulauan Riau,Kota Kotamobagu,Electronics,Online,Cash,1033083,2,47,3.4,124.3166667,0.7333333
+TRX00575,2024-03-19,Provinsi Jawa Timur,Kabupaten Cirebon,Electronics,Hybrid,Cash,122224,3,6.5,4.1,108.564003,-6.715534
+TRX00576,2024-04-23,Provinsi Sulawesi Utara,Kabupaten Kulon Progo,Food & Beverage,Hybrid,Cash,1119889,2,30.1,4.1,110.1640846,-7.8266798
+TRX00577,2024-03-03,Provinsi Gorontalo,Kabupaten Bulungan,Fashion,Online,Cash,601217,1,38.4,3.8,116.9852422,2.9042476
+TRX00578,2024-09-08,Provinsi Sumatera Utara,Kabupaten Maluku Barat Daya,Food & Beverage,Online,Credit Card,182535,5,29.1,3.8,126.3498097,-7.7851588
+TRX00579,2024-03-13,Provinsi Nusa Tenggara Barat,Kota Depok,Electronics,Offline,Cash,53103,5,18.1,4.2,106.83,-6.39
+TRX00580,2024-09-12,Provinsi DKI Jakarta,Kabupaten Kaur,Health & Beauty,Offline,Digital Wallet,378891,2,13.3,5.1,103.4511768,-4.6792278
+TRX00581,2024-02-28,Provinsi Sumatera Utara,Kabupaten Bungo,Health & Beauty,Hybrid,Bank Transfer,1065763,0,5.4,4,101.8891721,-1.6401338
+TRX00582,2024-12-21,Provinsi Nusa Tenggara Timur,Kabupaten Barito Timur,Health & Beauty,Online,Credit Card,751176,2,4.6,4.8,115.188916,-2.0123999
+TRX00583,2024-08-17,Provinsi Sumatera Utara,Kabupaten Labuhanbatu Utara,Fashion,Online,Cash,379335,3,33.2,4.1,99.8124935,2.3465638
+TRX00584,2024-09-18,Provinsi Kalimantan Timur,Kota Depok,Fashion,Hybrid,Digital Wallet,574012,3,15.5,4.4,106.83,-6.39
+TRX00585,2024-05-05,Provinsi Jambi,Kabupaten Wajo,Fashion,Hybrid,Digital Wallet,638151,1,4.8,5.3,120.0665236,-4.022229
+TRX00586,2024-05-08,Provinsi Sumatera Selatan,Kota Jayapura,Health & Beauty,Offline,Cash,257282,3,29.2,4.3,140.717,-2.533
+TRX00587,2024-06-01,Provinsi Bali,Kabupaten Bengkalis,Electronics,Online,Bank Transfer,576595,5,35.3,3.9,102.0797222,1.4897222
+TRX00588,2024-04-17,Provinsi Sulawesi Tenggara,Kabupaten Banyumas,Fashion,Online,Digital Wallet,610851,6,2,3.3,109.140438,-7.4832133
+TRX00589,2024-02-07,Provinsi Jawa Barat,Kabupaten Blitar,Fashion,Hybrid,Credit Card,265006,2,47.1,3.9,112.162762,-8.1014419
+TRX00590,2024-02-25,Provinsi Jawa Timur,Kota Pekalongan,Electronics,Offline,Digital Wallet,665661,2,6.3,4.7,109.669998,-6.882887
+TRX00591,2024-01-11,Provinsi DI Yogyakarta,Kabupaten Situbondo,Electronics,Online,Credit Card,744822,5,10.1,4,113.955605,-7.702534
+TRX00592,2024-08-08,Provinsi Sumatera Utara,Kabupaten Brebes,Fashion,Online,Credit Card,924182,5,23.4,4.6,109.05,-6.8833333
+TRX00593,2024-03-30,Provinsi Banten,Kabupaten Bombana,Fashion,Online,Digital Wallet,1111684,2,26.2,4.1,121.9017954,-4.6543462
+TRX00594,2024-04-30,Provinsi Jawa Timur,Kabupaten Tojo Una-Una,Fashion,Offline,Cash,822950,3,6.9,3.5,121.5370003,-1.098757
+TRX00595,2024-07-30,Provinsi Kepulauan Riau,Kota Pontianak,Electronics,Hybrid,Bank Transfer,738030,3,11.8,3.3,109.330307,-0.022523
+TRX00596,2024-06-20,Provinsi Sulawesi Utara,Kabupaten Lingga,Electronics,Online,Bank Transfer,496287,2,39,3.7,104.6354631,-0.1627686
+TRX00597,2024-08-01,Provinsi Sulawesi Tenggara,Kabupaten Buton,Food & Beverage,Hybrid,Credit Card,855209,6,51.7,4.2,122.9888319,-5.3096355
+TRX00598,2024-11-11,Provinsi Sumatera Barat,Kota Sorong,Fashion,Online,Bank Transfer,153445,4,10.2,4,131.25,-0.8666667
+TRX00599,2024-03-22,Provinsi Maluku,Kabupaten Konawe Selatan,Fashion,Offline,Credit Card,1050325,2,15.7,3.8,122.4467238,-4.2027915
+TRX00600,2024-04-23,Provinsi Banten,Kabupaten Halmahera Barat,Food & Beverage,Offline,Credit Card,319794,3,5.8,4.2,128.4849923,1.3121235
+TRX00601,2024-11-18,Provinsi Kepulauan Bangka Belitung,Kabupaten Deli Serdang,Fashion,Offline,Cash,5653974,6,26.2,3.7,98.704075,3.4201802
+TRX00602,2024-09-23,Provinsi Jawa Tengah,Kabupaten Pamekasan,Food & Beverage,Offline,Bank Transfer,300740,4,19.2,4.7,113.4666667,-7.1666667
+TRX00603,2024-10-09,Provinsi Sulawesi Tenggara,Kabupaten Karawang,Food & Beverage,Offline,Digital Wallet,30416,5,15.5,3.9,107.3375791,-6.3227303
+TRX00604,2024-08-10,Provinsi Nusa Tenggara Barat,Kabupaten Tambrauw,Home & Living,Offline,Bank Transfer,2153114,5,20.2,4.1,132.3938375,-0.781856
+TRX00605,2024-07-07,Provinsi Kepulauan Bangka Belitung,Kabupaten Boalemo,Fashion,Hybrid,Digital Wallet,300045,5,8.9,3.7,122.2653887,0.7013419
+TRX00606,2024-11-04,Provinsi Kepulauan Bangka Belitung,Kota Solok,Food & Beverage,Hybrid,Digital Wallet,987855,5,23.8,4.5,100.644402,-0.803027
+TRX00607,2024-06-09,Provinsi Jambi,Kabupaten Tolikara,Electronics,Online,Credit Card,684253,0,10.3,4.4,138.4787258,-3.481132
+TRX00608,2024-07-27,Provinsi Gorontalo,Kabupaten Jepara,Home & Living,Offline,Digital Wallet,1634181,5,8.1,4,110.6717,-6.5596059
+TRX00609,2024-02-10,Provinsi Nusa Tenggara Barat,Kota Pagar Alam,Fashion,Online,Credit Card,221256,3,18.4,3.2,103.265297,-4.03767
+TRX00610,2024-11-28,Provinsi Sumatera Selatan,Kabupaten Indramayu,Fashion,Online,Credit Card,166255,1,9.2,4.3,108.325104,-6.336315
+TRX00611,2024-03-01,Provinsi Kalimantan Selatan,Kabupaten Barito Selatan,Home & Living,Online,Cash,1583755,1,9.6,4.4,114.8092691,-1.875943
+TRX00612,2024-11-07,Provinsi Sulawesi Selatan,Kabupaten Magetan,Home & Living,Online,Bank Transfer,209352,1,29.1,4.4,111.3381593,-7.6493413
+TRX00613,2024-03-08,Provinsi Jawa Timur,Kabupaten Sumenep,Home & Living,Hybrid,Cash,117789,4,37.3,4.7,113.9060624,-6.9253999
+TRX00614,2023-12-25,Provinsi Sulawesi Tenggara,Kabupaten Halmahera Tengah,Fashion,Hybrid,Bank Transfer,1188628,4,19.9,3.8,128.4849923,1.3121235
+TRX00615,2024-09-22,Provinsi Lampung,Kabupaten Rejang Lebong,Home & Living,Online,Credit Card,511489,5,21.4,3.8,102.6675575,-3.4548154
+TRX00616,2024-09-08,Provinsi Kalimantan Selatan,Kabupaten Jayapura,Food & Beverage,Online,Cash,5328310,1,10.6,3.6,140.717,-2.533
+TRX00617,2024-04-07,Provinsi Sulawesi Tengah,Kabupaten Pohuwato,Fashion,Online,Cash,769849,2,25,4.6,121.7195459,0.7055278
+TRX00618,2024-04-12,Provinsi DI Yogyakarta,Kabupaten Manokwari,Fashion,Online,Cash,383559,2,40.6,4,134.0620421,-0.8614531
+TRX00619,2024-11-30,Provinsi Lampung,Kota Gorontalo,Food & Beverage,Hybrid,Cash,291605,2,8.6,3.8,123.0666667,0.5333333
+TRX00620,2024-03-04,Provinsi Sumatera Barat,Kota Kotamobagu,Food & Beverage,Offline,Credit Card,2943027,4,40.6,4.2,124.3166667,0.7333333
+TRX00621,2024-08-08,Provinsi Nusa Tenggara Timur,Kabupaten Kuningan,Fashion,Online,Digital Wallet,162010,1,11.7,4.1,108.4833333,-6.9833333
+TRX00622,2024-01-03,Provinsi Maluku Utara,Kabupaten Deiyai,Food & Beverage,Online,Credit Card,1011862,6,27.5,3.9,136.4393054,-4.0974893
+TRX00623,2024-07-17,Provinsi Sumatera Selatan,Kota Palangka Raya,Home & Living,Hybrid,Bank Transfer,957442,4,5.5,5.2,113.92,-2.21
+TRX00624,2024-11-22,Provinsi Sulawesi Selatan,Kabupaten Dairi,Electronics,Offline,Bank Transfer,307901,4,22.8,3.8,98.265058,2.8675801
+TRX00625,2024-02-17,Provinsi Sulawesi Barat,Kabupaten Alor,Fashion,Online,Bank Transfer,2535898,6,49.3,4.8,124.7298765,-8.2754027
+TRX00626,2024-04-07,Provinsi Kalimantan Tengah,Kabupaten Bandung Barat,Fashion,Online,Digital Wallet,258509,2,18.8,4.5,107.4321959,-6.8937121
+TRX00627,2024-09-19,Provinsi Riau,Kabupaten Melawi,Food & Beverage,Hybrid,Cash,535453,0,4.4,5.1,111.6660725,-0.7000681
+TRX00628,2024-07-17,Provinsi Kepulauan Riau,Kota Sibolga,Home & Living,Hybrid,Cash,804494,5,10,4.3,98.7827988,1.7403745
+TRX00629,2024-12-21,Provinsi Banten,Kabupaten Jember,Electronics,Offline,Credit Card,5573124,0,8.5,4.2,113.700302,-8.172357
+TRX00630,2024-03-21,Provinsi Banten,Kabupaten Sorong Selatan,Food & Beverage,Online,Cash,1010032,1,12,3.9,131.25,-0.8666667
+TRX00631,2024-10-10,Provinsi Maluku,Kabupaten Nias Selatan,Electronics,Online,Digital Wallet,3084464,5,8.4,3.6,97.8286368,0.7086091
+TRX00632,2024-09-11,Provinsi Kalimantan Tengah,Kabupaten Mimika,Electronics,Online,Bank Transfer,263492,2,23.2,4,137.1362125,-4.4553223
+TRX00633,2024-02-29,Provinsi Sulawesi Tenggara,Kabupaten Sijunjung,Fashion,Online,Bank Transfer,95311,5,25.7,3.9,100.997658,-0.6881586
+TRX00634,2024-04-21,Provinsi Sumatera Utara,Kabupaten Ogan Komering Ulu,Electronics,Offline,Bank Transfer,1328681,1,15,3.9,104.0072348,-4.0283486
+TRX00635,2024-08-11,Provinsi Kepulauan Riau,Kabupaten Tebo,Electronics,Hybrid,Digital Wallet,107138,3,36.1,4.4,102.3463875,-1.2592999
+TRX00636,2024-02-14,Provinsi Riau,Kabupaten Aceh Tenggara,Food & Beverage,Hybrid,Credit Card,142647,3,27.8,4,97.6982272,3.3088666
+TRX00637,2024-12-14,Provinsi Bengkulu,Kabupaten Merangin,Health & Beauty,Hybrid,Cash,1005616,3,6.2,2.5,101.9804613,-2.1752789
+TRX00638,2024-09-28,Provinsi DKI Jakarta,Kabupaten Kampar,Food & Beverage,Online,Credit Card,516362,2,32.3,4.1,101.1617356,0.146671
+TRX00639,2024-08-09,Provinsi Sumatera Utara,Kabupaten Rote Ndao,Health & Beauty,Online,Digital Wallet,1273602,2,6.1,4.3,123.1239049,-10.7386421
+TRX00640,2024-11-11,Provinsi Jawa Tengah,Kabupaten Jembrana,Home & Living,Online,Digital Wallet,2288747,1,18.7,4.2,114.6418,-8.361852
+TRX00641,2024-11-10,Provinsi Papua Barat,Kota Sabang,Fashion,Hybrid,Bank Transfer,1360122,3,16.1,4.3,95.3192982,5.8946929
+TRX00642,2024-01-03,Provinsi DKI Jakarta,Kabupaten Lebong,Fashion,Online,Bank Transfer,800243,1,10.2,4,104.382202,-2.992617
+TRX00643,2024-03-06,Provinsi Kalimantan Timur,Kabupaten Situbondo,Fashion,Hybrid,Credit Card,948236,2,44,4.7,113.955605,-7.702534
+TRX00644,2024-09-04,Provinsi Sumatera Selatan,Kabupaten Sumedang,Electronics,Offline,Cash,631067,2,20.4,4,110.0330554,0.6095949
+TRX00645,2024-12-06,Provinsi Jambi,Kabupaten Bangli,Food & Beverage,Online,Credit Card,3013861,7,29.3,4,115.354897,-8.454303
+TRX00646,2024-03-20,Provinsi Sulawesi Barat,Kota Surakarta,Fashion,Hybrid,Cash,575348,3,19.3,4.7,110.8166667,-7.5666667
+TRX00647,2024-12-02,Provinsi Aceh,Kota Langsa,Food & Beverage,Online,Digital Wallet,1223816,2,9.4,4.8,97.9633333,4.48
+TRX00648,2024-01-03,Provinsi Kepulauan Riau,Kabupaten Teluk Wondama,Food & Beverage,Hybrid,Bank Transfer,213251,4,30.6,4,134.3236557,-2.8551699
+TRX00649,2024-03-06,Provinsi Sumatera Utara,Kabupaten Donggala,Health & Beauty,Online,Digital Wallet,567833,0,10.2,4.1,119.8352303,-0.4233155
+TRX00650,2024-08-22,Provinsi Jawa Tengah,Kabupaten Luwu Utara,Fashion,Hybrid,Bank Transfer,74066,2,36.8,3.8,119.9740534,-2.2690446
+TRX00651,2024-06-28,Provinsi Gorontalo,Kabupaten Bener Meriah,Health & Beauty,Online,Bank Transfer,627231,4,25.8,4.3,97.0068393,4.7748348
+TRX00652,2024-10-05,Provinsi Jawa Timur,Kabupaten Kediri,Home & Living,Online,Cash,123262,4,27.6,5.1,112.032356,-7.809356
+TRX00653,2024-11-17,Provinsi Sumatera Selatan,Kota Serang,Fashion,Offline,Bank Transfer,478048,1,47.6,4.6,106.150299,-6.12009
+TRX00654,2024-06-13,Provinsi Jawa Timur,Kabupaten Banyu Asin,Home & Living,Online,Credit Card,429434,6,6.5,4.5,104.7520939,-2.6095639
+TRX00655,2024-11-02,Provinsi Kepulauan Riau,Kabupaten Bangka,Food & Beverage,Offline,Digital Wallet,1443180,4,8.7,4.4,106.0640179,-2.2884782
+TRX00656,2024-09-28,Provinsi Jawa Barat,Kabupaten Ogan Ilir,Home & Living,Offline,Cash,287250,3,21.2,4.1,104.6121475,-3.426544
+TRX00657,2024-10-09,Provinsi Lampung,Kabupaten Indragiri Hilir,Food & Beverage,Offline,Digital Wallet,281015,1,19.1,3.4,102.989615,-0.1456733
+TRX00658,2024-08-21,Provinsi Lampung,Kota Bandar Lampung,Food & Beverage,Offline,Bank Transfer,75912,4,7.2,4.6,105.2666667,-5.45
+TRX00659,2024-09-14,Provinsi Riau,Kabupaten Wonosobo,Health & Beauty,Hybrid,Credit Card,1015328,2,3.5,4.3,109.899399,-7.362109
+TRX00660,2024-02-25,Provinsi Jawa Timur,Kota Padang,Food & Beverage,Online,Cash,1621743,3,13.6,3.9,100.3530556,-0.95
+TRX00661,2024-11-15,Provinsi Bali,Kota Prabumulih,Fashion,Online,Bank Transfer,435506,4,36.4,4.9,104.235397,-3.440956
+TRX00662,2024-06-12,Provinsi Sulawesi Tenggara,Kabupaten Purworejo,Electronics,Online,Cash,2399038,4,4.2,4.6,110.008003,-7.709731
+TRX00663,2024-10-16,Provinsi Sulawesi Tenggara,Kabupaten Temanggung,Food & Beverage,Online,Bank Transfer,362429,2,34.4,4.8,110.174797,-7.316669
+TRX00664,2024-05-31,Provinsi Bengkulu,Kabupaten Gorontalo,Fashion,Hybrid,Digital Wallet,200390,5,12.9,4.6,123.0666667,0.5333333
+TRX00665,2024-06-07,Provinsi Sulawesi Tenggara,Kota Serang,Home & Living,Offline,Cash,686585,0,22,3.8,106.150299,-6.12009
+TRX00666,2024-06-06,Provinsi Jawa Tengah,Kota Bekasi,Fashion,Online,Cash,1084495,7,32.7,4.1,107,-6.2333333
+TRX00667,2024-01-09,Provinsi Lampung,Kabupaten Mamuju,Food & Beverage,Online,Credit Card,122617,1,22.2,3.2,118.9295737,-2.7293364
+TRX00668,2024-08-08,Provinsi Sulawesi Tengah,Kota Palangka Raya,Fashion,Online,Bank Transfer,106373,2,11.1,4.1,113.92,-2.21
+TRX00669,2024-12-22,Provinsi Sulawesi Selatan,Kabupaten Mappi,Home & Living,Hybrid,Digital Wallet,571923,1,34.7,3.3,139.396393,-7.102232
+TRX00670,2024-03-11,Provinsi Bali,Kabupaten Padang Pariaman,Food & Beverage,Online,Bank Transfer,882731,5,38.1,4.3,100.2151578,-0.5546757
+TRX00671,2024-08-06,Provinsi Jawa Barat,Kabupaten Merauke,Health & Beauty,Online,Credit Card,52358,6,24.8,4.3,140.3945527,-8.4960406
+TRX00672,2024-11-09,Provinsi Banten,Kabupaten Bangka Barat,Electronics,Offline,Bank Transfer,99127,1,8.9,3.9,106.0640179,-2.2884782
+TRX00673,2024-11-13,Provinsi Kepulauan Riau,Kabupaten Nduga,Fashion,Online,Digital Wallet,742747,3,22.1,4.2,138.2393528,-4.4069496
+TRX00674,2024-04-11,Provinsi Jambi,Kabupaten Banjar,Food & Beverage,Hybrid,Credit Card,1327854,3,3.5,3.4,108.5333333,-7.3666667
+TRX00675,2024-11-02,Provinsi Sumatera Selatan,Kabupaten Toba Samosir,Health & Beauty,Hybrid,Cash,373027,5,44.7,4.4,99.2785583,2.3502398
+TRX00676,2024-08-22,Provinsi Kalimantan Tengah,Kabupaten Nias Utara,Food & Beverage,Hybrid,Cash,1813488,1,29,5.2,97.5247243,1.1255279
+TRX00677,2024-09-13,Provinsi Bali,Kabupaten Ogan Komering Ulu Selatan,Electronics,Offline,Bank Transfer,295538,3,33.3,4.5,104.0072348,-4.6681951
+TRX00678,2024-01-15,Provinsi Sulawesi Selatan,Kota Sibolga,Food & Beverage,Hybrid,Cash,462150,5,22.6,5.1,98.7827988,1.7403745
+TRX00679,2024-09-29,Provinsi Maluku Utara,Kabupaten Maluku Barat Daya,Food & Beverage,Online,Digital Wallet,2105541,2,1.4,4.1,126.3498097,-7.7851588
+TRX00680,2024-04-13,Provinsi Jawa Barat,Kabupaten Landak,Health & Beauty,Online,Digital Wallet,503220,2,12.1,4.1,109.7591675,0.4237287
+TRX00681,2024-03-25,Provinsi Sulawesi Barat,Kabupaten Nduga,Electronics,Online,Digital Wallet,560292,5,39.2,4.8,138.2393528,-4.4069496
+TRX00682,2024-09-25,Provinsi Sulawesi Utara,Kota Bengkulu,Electronics,Offline,Bank Transfer,222008,2,16.1,4.5,102.2591667,-3.7955556
+TRX00683,2024-04-20,Provinsi Lampung,Kabupaten Seruyan,Food & Beverage,Online,Bank Transfer,583822,1,36.5,4.6,112.4291464,-3.0123467
+TRX00684,2024-02-09,Provinsi Aceh,Kota Mojokerto,Food & Beverage,Offline,Credit Card,286666,2,8.9,4.1,112.4336111,-7.4722222
+TRX00685,2024-08-27,Provinsi Kalimantan Timur,Kabupaten Parigi Moutong,Food & Beverage,Online,Cash,90301,6,24.3,4.2,120.8039474,0.5817607
+TRX00686,2024-04-06,Provinsi Kepulauan Riau,Kota Mojokerto,Fashion,Hybrid,Digital Wallet,206871,5,12.8,4.3,112.4336111,-7.4722222
+TRX00687,2024-06-11,Provinsi Gorontalo,Kabupaten Kepulauan Aru,Home & Living,Hybrid,Bank Transfer,430065,5,11.7,4.2,134.5501935,-6.1946502
+TRX00688,2024-06-24,Provinsi Kalimantan Timur,Kabupaten Kepulauan Aru,Food & Beverage,Online,Bank Transfer,643046,0,17.3,4.6,134.5501935,-6.1946502
+TRX00689,2023-12-27,Provinsi Jawa Timur,Kabupaten Karanganyar,Fashion,Online,Digital Wallet,1588620,3,22.8,4,110.9508333,-7.5961111
+TRX00690,2024-11-14,Provinsi Sulawesi Barat,Kabupaten Tulangbawang Barat,Health & Beauty,Offline,Credit Card,567431,4,23.7,3.7,105.0791228,-4.5256967
+TRX00691,2024-10-30,Provinsi Kalimantan Selatan,Kabupaten Klungkung,Fashion,Hybrid,Cash,480669,4,15.9,4.9,115.4045111,-8.5389222
+TRX00692,2024-02-11,Provinsi Banten,Kabupaten Blitar,Health & Beauty,Offline,Digital Wallet,1650310,1,29.3,3.8,112.162762,-8.1014419
+TRX00693,2024-05-10,Provinsi Maluku Utara,Kabupaten Tanjung Jabung Timur,Home & Living,Online,Bank Transfer,6109752,3,10.9,4.3,103.89973,-1.3291599
+TRX00694,2024-08-25,Provinsi Jawa Barat,Kota Tanjung Pinang,Health & Beauty,Hybrid,Credit Card,501271,2,36.7,3.3,104.446464,0.9179205
+TRX00695,2024-11-18,Provinsi Kalimantan Barat,Kabupaten Tasikmalaya,Food & Beverage,Offline,Cash,1773252,2,5.8,3.9,108.214104,-7.327954
+TRX00696,2024-11-03,Provinsi Kepulauan Bangka Belitung,Kota Tangerang Selatan,Fashion,Online,Cash,887819,2,19.2,5.4,106.7180556,-6.2888889
+TRX00697,2024-08-29,Provinsi Gorontalo,Kabupaten Konawe,Health & Beauty,Online,Bank Transfer,506001,2,44.1,4.2,122.0837445,-3.9380432
+TRX00698,2024-08-09,Provinsi Sumatera Barat,Kabupaten Belitung,Electronics,Hybrid,Cash,79974,5,18.7,4.6,107.9531836,-2.8708938
+TRX00699,2024-03-17,Provinsi Riau,Kabupaten Konawe Selatan,Health & Beauty,Hybrid,Cash,207479,2,1.4,4.5,122.4467238,-4.2027915
+TRX00700,2024-11-17,Provinsi Kepulauan Riau,Kabupaten Aceh Tamiang,Health & Beauty,Online,Credit Card,312887,2,59.6,3.5,98.0028892,4.2328871
+TRX00701,2024-04-22,Provinsi Kepulauan Riau,Kabupaten Aceh Utara,Electronics,Online,Digital Wallet,179896,5,12,4.6,97.2221421,4.9786331
+TRX00702,2024-04-15,Provinsi Jambi,Kabupaten Bombana,Fashion,Online,Digital Wallet,170944,5,33.6,3.7,121.9017954,-4.6543462
+TRX00703,2024-07-05,Provinsi DKI Jakarta,Kabupaten Bone Bolango,Electronics,Online,Digital Wallet,361282,4,3.8,4.6,123.3486147,0.5657885
+TRX00704,2024-03-31,Provinsi Jawa Barat,Kabupaten Mukomuko,Food & Beverage,Hybrid,Cash,1414420,3,13.9,3.6,101.1169805,-2.5760003
+TRX00705,2024-03-30,Provinsi Jambi,Kabupaten Mojokerto,Fashion,Hybrid,Bank Transfer,217545,3,25.8,4.2,112.427027,-7.488075
+TRX00706,2024-02-19,Provinsi Sulawesi Utara,Kabupaten Blora,Home & Living,Offline,Credit Card,614470,3,25.8,4.5,111.4166667,-6.95
+TRX00707,2024-01-05,Provinsi Riau,Kabupaten Lanny Jaya,Electronics,Online,Cash,445676,1,38,4,138.3190276,-3.971033
+TRX00708,2023-12-31,Provinsi Papua Barat,Kabupaten Nabire,Home & Living,Online,Digital Wallet,1206749,2,5.7,4.1,135.7520985,-3.5095462
+TRX00709,2024-09-06,Provinsi Aceh,Kabupaten Merangin,Fashion,Hybrid,Digital Wallet,567376,3,20.5,4.5,101.9804613,-2.1752789
+TRX00710,2024-04-24,Provinsi Nusa Tenggara Timur,Kabupaten Kepulauan Sula,Electronics,Online,Bank Transfer,461472,4,28.4,4.6,125.3666667,-1.8666667
+TRX00711,2024-09-10,Provinsi DKI Jakarta,Kota Cirebon,Electronics,Offline,Credit Card,304416,1,44.2,5,108.564003,-6.715534
+TRX00712,2024-03-19,Provinsi Sulawesi Barat,Kota Sawah Lunto,Food & Beverage,Offline,Credit Card,1332062,4,10.1,5.6,100.7763604,-0.6810286
+TRX00713,2024-01-09,Provinsi Sulawesi Tenggara,Kabupaten Gunung Kidul,Food & Beverage,Hybrid,Bank Transfer,1706020,1,23.9,4.1,110.6168921,-8.0305091
+TRX00714,2024-07-16,Provinsi Sulawesi Utara,Kabupaten Merangin,Home & Living,Offline,Digital Wallet,556701,3,1.4,4.9,101.9804613,-2.1752789
+TRX00715,2024-07-09,Provinsi Jambi,Kabupaten Wakatobi,Home & Living,Offline,Digital Wallet,14391137,7,20.3,4.5,123.5951925,-5.3264442
+TRX00716,2024-03-09,Provinsi Sumatera Utara,Kabupaten Garut,Food & Beverage,Online,Digital Wallet,544350,2,23.1,4.2,107.908699,-7.227906
+TRX00717,2024-11-15,Provinsi Sulawesi Selatan,Kota Dumai,Home & Living,Online,Cash,10161985,1,36,4.2,101.447601,1.665742
+TRX00718,2024-12-15,Provinsi Gorontalo,Kabupaten Sumba Barat Daya,Home & Living,Hybrid,Cash,477568,1,11.2,3.7,119.13906420000001,-9.539139
+TRX00719,2024-08-13,Provinsi Sumatera Selatan,Kota Pontianak,Home & Living,Offline,Digital Wallet,113509,1,11.2,4.7,109.330307,-0.022523
+TRX00720,2024-01-09,Provinsi Sulawesi Selatan,Kabupaten Badung,Food & Beverage,Offline,Bank Transfer,131344,0,18.5,4.7,115.1770586,-8.5819296
+TRX00721,2024-11-14,Provinsi Gorontalo,Kabupaten Puncak Jaya,Health & Beauty,Online,Bank Transfer,228404,2,31.1,3.9,137.1847222,-4.0836111
+TRX00722,2024-02-16,Provinsi Sumatera Selatan,Kabupaten Indramayu,Health & Beauty,Online,Bank Transfer,2394652,2,12.1,3.6,108.325104,-6.336315
+TRX00723,2024-01-11,Provinsi Riau,Kabupaten Jepara,Food & Beverage,Hybrid,Digital Wallet,2998623,2,21.3,4.2,110.6717,-6.5596059
+TRX00724,2024-08-20,Provinsi Kalimantan Selatan,Kabupaten Manokwari,Home & Living,Online,Credit Card,812563,1,13.7,4.8,134.0620421,-0.8614531
+TRX00725,2024-09-19,Provinsi Jawa Timur,Kabupaten Simalungun,Home & Living,Offline,Bank Transfer,743286,1,7.1,5.1,99.2785583,2.9781612
+TRX00726,2024-07-28,Provinsi Sumatera Selatan,Kabupaten Indragiri Hilir,Fashion,Online,Bank Transfer,319140,5,33.8,3.9,102.989615,-0.1456733
+TRX00727,2024-05-26,Provinsi Sumatera Barat,Kabupaten Tulangbawang Barat,Food & Beverage,Online,Credit Card,277525,3,10.3,4.1,105.0791228,-4.5256967
+TRX00728,2024-07-19,Provinsi Kalimantan Tengah,Kota Palangka Raya,Home & Living,Online,Digital Wallet,266316,1,16.2,5.1,113.92,-2.21
+TRX00729,2024-01-25,Provinsi Kepulauan Riau,Kota Pekanbaru,Fashion,Online,Credit Card,228614,1,29.1,4,101.45,0.5333333
+TRX00730,2024-10-24,Provinsi Sulawesi Tengah,Kabupaten Sumba Barat Daya,Food & Beverage,Offline,Digital Wallet,318194,5,28.1,3.7,119.13906420000001,-9.539139
+TRX00731,2024-09-22,Provinsi Gorontalo,Kota Manado,Home & Living,Online,Bank Transfer,292919,5,45.5,4.4,124.842843,1.4917014
+TRX00732,2024-05-19,Provinsi Aceh,Kabupaten Aceh Besar,Health & Beauty,Online,Cash,926230,5,11.4,5.4,95.4777811,5.4529168
+TRX00733,2024-12-04,Provinsi Sumatera Utara,Kabupaten Boyolali,Food & Beverage,Online,Digital Wallet,1180158,3,15.5,3.8,110.595901,-7.523819
+TRX00734,2024-10-16,Provinsi Nusa Tenggara Timur,Kota Sabang,Food & Beverage,Online,Digital Wallet,2712879,2,11.6,4,95.3192982,5.8946929
+TRX00735,2024-03-06,Provinsi Sulawesi Selatan,Kabupaten Malang,Electronics,Offline,Bank Transfer,47180,4,17.6,4.1,112.6884549,-8.0495643
+TRX00736,2024-02-14,Provinsi Papua,Kota Tangerang Selatan,Home & Living,Online,Cash,895789,1,19.1,4.2,106.7180556,-6.2888889
+TRX00737,2024-11-06,Provinsi Kalimantan Timur,Kabupaten Belu,Food & Beverage,Offline,Cash,397072,1,19.6,4,124.9506625,-9.4125796
+TRX00738,2024-11-16,Provinsi Sumatera Barat,Kabupaten Kaur,Fashion,Hybrid,Digital Wallet,418298,2,29.1,4.4,103.4511768,-4.6792278
+TRX00739,2024-05-30,Provinsi Sulawesi Utara,Kota Bima,Fashion,Online,Bank Transfer,105729,3,6.7,3.9,118.727402,-8.460566
+TRX00740,2024-11-26,Provinsi Papua Barat,Kabupaten Halmahera Barat,Home & Living,Hybrid,Credit Card,528323,5,39.4,4.1,128.4849923,1.3121235
+TRX00741,2024-02-16,Provinsi Jawa Tengah,Kabupaten Banggai,Fashion,Online,Digital Wallet,251283,4,19.1,4.5,123.5504076,-1.6408137
+TRX00742,2024-08-26,Provinsi Kepulauan Bangka Belitung,Kabupaten Pasuruan,Food & Beverage,Offline,Digital Wallet,779260,2,11.1,4.3,108.8001936,-6.8623098
+TRX00743,2024-01-10,Provinsi Bali,Kabupaten Natuna,Food & Beverage,Online,Digital Wallet,179428,3,26.4,4.5,108.1812242,3.9329945
+TRX00744,2024-12-21,Provinsi DI Yogyakarta,Kabupaten Trenggalek,Home & Living,Online,Cash,17129837,1,17.3,3.5,111.7166667,-8.05
+TRX00745,2024-02-05,Provinsi Maluku Utara,Kabupaten Tapin,Food & Beverage,Online,Digital Wallet,249756,3,17.8,3.8,115.0465991,-2.9160746
+TRX00746,2024-12-05,Provinsi Lampung,Kabupaten Pidie Jaya,Fashion,Online,Digital Wallet,411736,1,18.3,4.1,96.195132,5.1548063
+TRX00747,2024-01-13,Provinsi Jawa Barat,Kabupaten Ogan Komering Ulu Selatan,Electronics,Offline,Digital Wallet,159783,1,12.7,3.4,104.0072348,-4.6681951
+TRX00748,2024-01-21,Provinsi Kalimantan Barat,Kabupaten Pasaman,Fashion,Online,Cash,394418,5,39.4,4.3,99.7901781,0.1288752
+TRX00749,2024-03-16,Provinsi Jambi,Kabupaten Jepara,Electronics,Offline,Digital Wallet,4613950,2,22.7,4.7,110.6717,-6.5596059
+TRX00750,2024-01-15,Provinsi Jambi,Kabupaten Kepulauan Sangihe,Fashion,Online,Cash,370811,4,16.1,4.1,125.5438967,3.5303212
+TRX00751,2024-02-03,Provinsi Lampung,Kabupaten Buton Utara,Electronics,Online,Credit Card,1005046,2,11.7,3.4,123.0338767,-4.7023424
+TRX00752,2024-07-07,Provinsi Sulawesi Selatan,Kabupaten Kubu Raya,Home & Living,Offline,Bank Transfer,213323,3,14.9,4.1,109.4735066,-0.3533938
+TRX00753,2024-07-04,Provinsi Sulawesi Tengah,Kabupaten Tapanuli Utara,Fashion,Online,Digital Wallet,2542616,2,16.1,3.5,99.1013498,2.0405246
+TRX00754,2024-03-14,Provinsi Kalimantan Selatan,Kabupaten Merauke,Food & Beverage,Online,Cash,872128,4,43,4.1,140.3945527,-8.4960406
+TRX00755,2024-11-05,Provinsi Maluku Utara,Kabupaten Lampung Tengah,Home & Living,Hybrid,Credit Card,266654,4,10.3,3.5,105.3131185,-4.8008086
+TRX00756,2024-02-25,Provinsi Kepulauan Bangka Belitung,Kabupaten Tanjung Jabung Barat,Home & Living,Online,Credit Card,687474,6,59.6,3.2,103.7984428,-1.2332122
+TRX00757,2024-03-09,Provinsi Kepulauan Bangka Belitung,Kabupaten Bengkulu Utara,Home & Living,Online,Bank Transfer,370822,6,17.5,4.6,102.1632718,-3.4219555
+TRX00758,2024-04-08,Provinsi Bali,Kabupaten Lanny Jaya,Food & Beverage,Online,Credit Card,908045,3,11.6,4.3,138.3190276,-3.971033
+TRX00759,2024-06-19,Provinsi Sulawesi Utara,Kabupaten Bangka Barat,Food & Beverage,Offline,Cash,243031,5,11.1,3.6,106.0640179,-2.2884782
+TRX00760,2024-05-17,Provinsi DKI Jakarta,Kota Kotamobagu,Electronics,Hybrid,Credit Card,867661,4,23.1,3.5,124.3166667,0.7333333
+TRX00761,2024-09-14,Provinsi Papua Barat,Kabupaten Aceh Tengah,Home & Living,Offline,Digital Wallet,2659154,4,16.8,3.6,96.8350999,4.4482641
+TRX00762,2024-07-11,Provinsi Banten,Kabupaten Polewali Mandar,Fashion,Hybrid,Digital Wallet,1930138,4,18.6,3.9,119.13906420000001,-3.3419323
+TRX00763,2024-12-12,Provinsi Sulawesi Tenggara,Kabupaten Musi Banyuasin,Food & Beverage,Offline,Digital Wallet,740687,3,23.4,4.8,103.7289167,-2.5442029
+TRX00764,2024-11-26,Provinsi Gorontalo,Kota Bandar Lampung,Fashion,Offline,Bank Transfer,762240,3,21,4.4,105.2666667,-5.45
+TRX00765,2024-07-10,Provinsi Maluku Utara,Kabupaten Purwakarta,Fashion,Hybrid,Cash,832213,4,10.7,3.7,107.4499404,-6.5386806
+TRX00766,2024-08-16,Provinsi DI Yogyakarta,Kabupaten Jember,Fashion,Online,Digital Wallet,1340724,2,40.3,4.7,113.700302,-8.172357
+TRX00767,2024-09-06,Provinsi Jawa Tengah,Kota Bau-Bau,Food & Beverage,Offline,Credit Card,803127,2,6.6,3.5,122.633,-5.46667
+TRX00768,2024-09-02,Provinsi DI Yogyakarta,Kabupaten Natuna,Fashion,Offline,Digital Wallet,1000920,2,8.5,5,108.1812242,3.9329945
+TRX00769,2024-04-13,Provinsi Maluku Utara,Kabupaten Sukoharjo,Food & Beverage,Online,Bank Transfer,1033180,3,14.3,4.1,110.8195292,-7.6808818
+TRX00770,2023-12-28,Provinsi Kepulauan Riau,Kabupaten Poso,Fashion,Offline,Bank Transfer,685658,3,16,4.9,120.766998,-1.391922
+TRX00771,2024-04-01,Provinsi Sulawesi Barat,Kota Sungai Penuh,Health & Beauty,Online,Bank Transfer,1122187,3,42,3.7,101.387199,-2.06314
+TRX00772,2024-05-14,Provinsi Gorontalo,Kabupaten Tanah Datar,Fashion,Offline,Credit Card,578492,2,12,4.2,100.5746224,-0.4797043
+TRX00773,2024-08-13,Provinsi Kepulauan Bangka Belitung,Kabupaten Mamberamo Raya,Electronics,Offline,Credit Card,1500977,0,17.4,3.9,137.7637565,-2.5331255
+TRX00774,2024-04-04,Provinsi Jawa Tengah,Kabupaten Bangka,Food & Beverage,Online,Digital Wallet,355788,1,15.3,4.4,106.0640179,-2.2884782
+TRX00775,2024-02-19,Provinsi DI Yogyakarta,Kabupaten Sumenep,Electronics,Online,Bank Transfer,662722,7,7.9,3.7,113.9060624,-6.9253999
+TRX00776,2024-10-08,Provinsi Jambi,Kabupaten Semarang,Home & Living,Online,Bank Transfer,563997,4,27.6,3.6,110.4166667,-6.9666667
+TRX00777,2024-10-05,Provinsi Sulawesi Selatan,Kabupaten Batang,Food & Beverage,Online,Cash,186500,1,6.1,3.7,109.7234519,-6.8941111
+TRX00778,2024-01-10,Provinsi Jawa Tengah,Kabupaten Barito Selatan,Food & Beverage,Online,Digital Wallet,1810596,4,9.9,5.1,114.8092691,-1.875943
+TRX00779,2024-10-20,Provinsi DI Yogyakarta,Kabupaten Halmahera Selatan,Electronics,Online,Credit Card,170742,0,12.4,4.3,128.4849923,1.3121235
+TRX00780,2024-09-13,Provinsi Lampung,Kabupaten Balangan,Home & Living,Online,Digital Wallet,2013670,2,9.7,4.7,115.6154732,-2.3260425
+TRX00781,2024-03-11,Provinsi Bengkulu,Kabupaten Kapuas,Electronics,Hybrid,Bank Transfer,187564,3,23.8,3.8,110.1313251,-0.0459972
+TRX00782,2024-05-06,Provinsi Jawa Tengah,Kabupaten Mamuju Utara,Food & Beverage,Online,Credit Card,204486,2,15.6,4.1,119.5107708,-1.5264542
+TRX00783,2024-11-08,Provinsi Nusa Tenggara Barat,Kabupaten Bener Meriah,Home & Living,Offline,Digital Wallet,1291389,3,25.2,4.2,97.0068393,4.7748348
+TRX00784,2024-01-01,Provinsi Kalimantan Barat,Kabupaten Luwu,Fashion,Offline,Credit Card,503126,3,47,4.1,120.2512728,-3.3052214
+TRX00785,2024-12-12,Provinsi Papua Barat,Kabupaten Labuhanbatu Selatan,Food & Beverage,Online,Bank Transfer,86262,3,2.3,4.1,100.1703257,1.8799353
+TRX00786,2024-09-29,Provinsi Lampung,Kabupaten Ogan Komering Ulu Selatan,Electronics,Offline,Cash,2455303,4,16.4,4.3,104.0072348,-4.6681951
+TRX00787,2024-05-01,Provinsi Lampung,Kabupaten Tasikmalaya,Home & Living,Offline,Credit Card,45334,3,28.4,3.8,108.214104,-7.327954
+TRX00788,2024-07-06,Provinsi Jawa Timur,Kabupaten Sigi,Home & Living,Offline,Cash,273160,5,12.5,4.6,120.0665236,-1.3834127
+TRX00789,2024-02-01,Provinsi Papua,Kabupaten Polewali Mandar,Food & Beverage,Online,Bank Transfer,119372,1,22,5.1,119.13906420000001,-3.3419323
+TRX00790,2024-05-19,Provinsi Kalimantan Tengah,Kabupaten Samosir,Food & Beverage,Offline,Bank Transfer,309395,4,59.2,4.2,98.8166667,2.5833333
+TRX00791,2024-05-10,Provinsi Bali,Kabupaten Purwakarta,Health & Beauty,Offline,Digital Wallet,596612,4,23.2,4.5,107.4499404,-6.5386806
+TRX00792,2024-01-10,Provinsi Papua,Kabupaten Sumba Barat Daya,Food & Beverage,Offline,Credit Card,391132,7,1.8,4.3,119.13906420000001,-9.539139
+TRX00793,2024-12-05,Provinsi Kalimantan Timur,Kabupaten Anambas,Food & Beverage,Hybrid,Credit Card,306045,6,1.4,4.2,105.6537231,3.1055459
+TRX00794,2024-02-28,Provinsi Sumatera Selatan,Kabupaten Belu,Fashion,Online,Credit Card,463492,1,44.2,4.4,124.9506625,-9.4125796
+TRX00795,2024-12-23,Provinsi Bali,Kota Batu,Home & Living,Online,Credit Card,714620,2,14.8,4.2,112.5239,-7.8671
+TRX00796,2024-07-30,Provinsi Gorontalo,Kabupaten Nagan Raya,Home & Living,Online,Cash,232020,4,15.4,3.8,96.4929797,4.1248406
+TRX00797,2024-03-25,Provinsi Riau,Kabupaten Toraja Utara,Electronics,Online,Digital Wallet,68561,3,26.1,4.2,119.8352303,-2.8621942
+TRX00798,2024-01-31,Provinsi Kepulauan Riau,Kota Samarinda,Fashion,Online,Bank Transfer,216316,7,22.7,4.8,117.153801,-0.502183
+TRX00799,2024-05-22,Provinsi Sulawesi Barat,Kabupaten Intan Jaya,Food & Beverage,Online,Credit Card,81307,2,23.9,4.5,136.7478493,-3.5076422
+TRX00800,2024-03-11,Provinsi Kalimantan Timur,Kabupaten Ciamis,Home & Living,Offline,Cash,1030628,7,23.8,4.4,108.35,-7.3333333
+TRX00801,2024-12-01,Provinsi Sumatera Utara,Kota Tarakan,Home & Living,Online,Cash,3543051,3,2.3,4.1,117.6333333,3.3
+TRX00802,2024-06-08,Provinsi Gorontalo,Kota Bandung,Fashion,Online,Cash,173664,2,27.2,4.5,107.6098111,-6.9147444
+TRX00803,2024-06-01,Provinsi Bengkulu,Kabupaten Bima,Fashion,Online,Cash,225236,5,15.5,3.2,118.727402,-8.460566
+TRX00804,2024-01-21,Provinsi Nusa Tenggara Barat,Kabupaten Subang,Fashion,Hybrid,Cash,227477,3,36.6,4.2,107.752403,-6.569361
+TRX00805,2024-04-22,Provinsi Aceh,Kabupaten Demak,Home & Living,Online,Cash,1201079,3,9.5,3.5,110.639297,-6.888115
+TRX00806,2024-08-20,Provinsi DKI Jakarta,Kota Salatiga,Health & Beauty,Online,Digital Wallet,563366,3,16.4,4,110.4729,-7.302328
+TRX00807,2024-05-24,Provinsi Lampung,Kabupaten Padang Lawas,Electronics,Hybrid,Credit Card,890277,7,4.6,3.5,99.8124935,1.1186977
+TRX00808,2024-02-03,Provinsi DI Yogyakarta,Kabupaten Probolinggo,Home & Living,Online,Credit Card,1180927,3,4.9,4.8,113.210675,-7.753965
+TRX00809,2024-02-05,Provinsi Lampung,Kabupaten Gorontalo,Home & Living,Online,Credit Card,699538,2,3.6,3.9,123.0666667,0.5333333
+TRX00810,2024-08-03,Provinsi Lampung,Kabupaten Dompu,Food & Beverage,Online,Bank Transfer,854415,1,20.4,4,118.4747173,-8.4966318
+TRX00811,2023-12-31,Provinsi Bengkulu,Kabupaten Tanah Bumbu,Fashion,Hybrid,Bank Transfer,170719,6,0.8,4.8,115.5681084,-3.4512244
+TRX00812,2024-01-31,Provinsi Lampung,Kota Pangkal Pinang,Food & Beverage,Online,Digital Wallet,513267,2,11.7,4.6,106.109596,-2.129323
+TRX00813,2024-12-09,Provinsi Kepulauan Bangka Belitung,Kabupaten Murung Raya,Home & Living,Hybrid,Cash,294854,2,20.2,4,114.3341432,-0.1362171
+TRX00814,2024-11-08,Provinsi Kepulauan Bangka Belitung,Kabupaten Aceh Timur,Electronics,Hybrid,Bank Transfer,148080,5,46.1,3.2,95.9885456,5.255443
+TRX00815,2024-12-07,Provinsi Sumatera Barat,Kota Tegal,Fashion,Offline,Bank Transfer,169627,2,25.1,4.6,109.1333333,-6.8666667
+TRX00816,2024-11-01,Provinsi Aceh,Kabupaten Ngawi,Health & Beauty,Offline,Digital Wallet,1394365,7,27.3,4,111.46193,-7.38993
+TRX00817,2024-07-27,Provinsi Sumatera Barat,Kabupaten Probolinggo,Electronics,Offline,Bank Transfer,148716,2,11.8,3.8,113.210675,-7.753965
+TRX00818,2024-06-24,Provinsi Papua Barat,Kabupaten Pakpak Bharat,Food & Beverage,Offline,Cash,364402,3,6.1,3.9,98.299838,2.545786
+TRX00819,2024-06-11,Provinsi Sumatera Selatan,Kabupaten Empat Lawang,Electronics,Online,Credit Card,1458480,3,31.9,3.6,102.8975098,-3.7286029
+TRX00820,2024-02-17,Provinsi Jawa Timur,Kabupaten Aceh Barat,Fashion,Offline,Credit Card,758881,1,17.1,3.5,96.1526985,4.4542745
+TRX00821,2024-09-26,Provinsi Bali,Kabupaten Serdang Bedagai,Home & Living,Hybrid,Credit Card,1048308,4,20,3.7,99.0571089,3.3371694
+TRX00822,2024-03-31,Provinsi Maluku Utara,Kabupaten Bolaang Mongondow Utara,Fashion,Offline,Bank Transfer,760491,0,9.9,4.7,123.5280072,0.818691
+TRX00823,2024-05-13,Provinsi Kalimantan Barat,Kabupaten Simeulue,Food & Beverage,Online,Cash,470459,3,12.7,3.7,96.083333,2.583333
+TRX00824,2024-08-08,Provinsi Nusa Tenggara Timur,Kota Kediri,Food & Beverage,Online,Cash,60514,3,1.6,4,112.011398,-7.816895
+TRX00825,2024-02-25,Provinsi Nusa Tenggara Barat,Kabupaten Bengkayang,Electronics,Offline,Cash,297004,4,4,4.5,109.477699,0.8209729
+TRX00826,2024-08-21,Provinsi Banten,Kabupaten Maluku Barat Daya,Food & Beverage,Online,Cash,137590,2,4.5,4.4,126.3498097,-7.7851588
+TRX00827,2024-09-28,Provinsi Sulawesi Barat,Kota Jayapura,Food & Beverage,Offline,Credit Card,374092,2,17.4,3.2,140.717,-2.533
+TRX00828,2024-08-01,Provinsi DKI Jakarta,Kabupaten Halmahera Utara,Food & Beverage,Offline,Cash,4258585,2,7.8,4.9,128.4849923,1.3121235
+TRX00829,2023-12-31,Provinsi Jambi,Kabupaten Karang Asem,Home & Living,Hybrid,Credit Card,626915,2,26.7,4.3,108.0503042,-6.3996057
+TRX00830,2024-05-19,Provinsi Jawa Barat,Kabupaten Pinrang,Food & Beverage,Online,Bank Transfer,265985,0,20.5,4.7,119.6408,-3.793071
+TRX00831,2024-03-06,Provinsi Sumatera Barat,Kabupaten Boyolali,Food & Beverage,Online,Credit Card,1327798,4,13.3,3.7,110.595901,-7.523819
+TRX00832,2024-03-18,Provinsi Maluku,Kota Kotamobagu,Fashion,Hybrid,Bank Transfer,892439,5,4.3,4,124.3166667,0.7333333
+TRX00833,2024-01-09,Provinsi Gorontalo,Kabupaten Supiori,Health & Beauty,Online,Digital Wallet,503828,5,11.5,4.1,135.6385125,-0.7295099
+TRX00834,2024-05-08,Provinsi Kalimantan Tengah,Kabupaten Kepulauan Mentawai,Fashion,Hybrid,Digital Wallet,434829,2,37.8,4.5,98.9245343,-1.426001
+TRX00835,2024-06-03,Provinsi Papua Barat,Kota Metro,Home & Living,Offline,Digital Wallet,472057,3,15.6,3.6,105.3,-5.1166667
+TRX00836,2024-06-25,Provinsi Kepulauan Riau,Kabupaten Rote Ndao,Food & Beverage,Online,Cash,508347,1,1.8,4,123.1239049,-10.7386421
+TRX00837,2024-05-15,Provinsi Kalimantan Barat,Kota Kupang,Fashion,Offline,Cash,1014464,4,13.5,4.5,123.5833333,-10.1833333
+TRX00838,2024-10-26,Provinsi Maluku,Kabupaten Lampung Selatan,Fashion,Online,Cash,620324,5,20.5,4.7,105.5474373,-5.5622614
+TRX00839,2024-12-12,Provinsi DKI Jakarta,Kota Bima,Home & Living,Hybrid,Digital Wallet,291549,4,47.9,3.7,118.727402,-8.460566
+TRX00840,2024-01-27,Provinsi Gorontalo,Kabupaten Ogan Ilir,Fashion,Hybrid,Cash,1257595,4,17.5,4.9,104.6121475,-3.426544
+TRX00841,2024-01-18,Provinsi Nusa Tenggara Barat,Kabupaten Puncak,Fashion,Offline,Credit Card,271559,4,9.3,4.1,106.9542425,-6.7125476
+TRX00842,2024-09-17,Provinsi Sumatera Utara,Kabupaten Tegal,Fashion,Hybrid,Bank Transfer,2021966,3,36.5,4.1,109.1333333,-6.8666667
+TRX00843,2024-01-28,Provinsi Kalimantan Tengah,Kabupaten Seruyan,Electronics,Offline,Credit Card,204877,2,19.8,4.5,112.4291464,-3.0123467
+TRX00844,2024-06-15,Provinsi Nusa Tenggara Timur,Kabupaten Takalar,Food & Beverage,Offline,Credit Card,1153516,2,33.9,4.6,119.4875668,-5.4162493
+TRX00845,2024-01-20,Provinsi Jawa Timur,Kabupaten Kepulauan Yapen,Electronics,Hybrid,Bank Transfer,1920578,3,5.9,3.8,136.1709012,-1.7469359
+TRX00846,2024-05-28,Provinsi Gorontalo,Kabupaten Sabu Raijua,Electronics,Online,Cash,1853384,2,25.1,4.6,121.8334868,-10.5541116
+TRX00847,2024-10-18,Provinsi Sulawesi Utara,Kabupaten Halmahera Timur,Electronics,Online,Digital Wallet,488053,4,13.4,3.7,128.4849923,1.3121235
+TRX00848,2024-10-28,Provinsi Kalimantan Barat,Kabupaten Karawang,Fashion,Online,Digital Wallet,1090929,3,6.9,4.6,107.3375791,-6.3227303
+TRX00849,2024-05-24,Provinsi Jambi,Kota Prabumulih,Food & Beverage,Hybrid,Digital Wallet,64389,2,4.7,3.9,104.235397,-3.440956
+TRX00850,2024-10-03,Provinsi Nusa Tenggara Barat,Kabupaten Tana Toraja,Fashion,Offline,Bank Transfer,851348,2,3.3,3.8,119.742604,-3.0753003
+TRX00851,2024-05-19,Provinsi Sulawesi Tenggara,Kabupaten Halmahera Timur,Food & Beverage,Online,Cash,489458,3,3.7,4.7,128.4849923,1.3121235
+TRX00852,2024-03-25,Provinsi Maluku Utara,Kabupaten Rejang Lebong,Food & Beverage,Hybrid,Digital Wallet,994669,2,20.6,4.4,102.6675575,-3.4548154
+TRX00853,2024-09-17,Provinsi DKI Jakarta,Kabupaten Seluma,Food & Beverage,Offline,Cash,608711,3,43.9,3.6,102.5642261,-4.0622929
+TRX00854,2024-07-15,Provinsi Sulawesi Barat,Kabupaten Lampung Barat,Fashion,Offline,Credit Card,1992971,6,26,4.6,104.1930918,-5.1490396
+TRX00855,2024-06-03,Provinsi Aceh,Kabupaten Mukomuko,Fashion,Online,Bank Transfer,460326,1,2.8,4.1,101.1169805,-2.5760003
+TRX00856,2023-12-28,Provinsi Bengkulu,Kabupaten Polewali Mandar,Food & Beverage,Online,Credit Card,1137200,1,21.4,4.5,119.13906420000001,-3.3419323
+TRX00857,2024-02-17,Provinsi Jawa Tengah,Kabupaten Indragiri Hulu,Home & Living,Offline,Cash,491091,3,41,4.4,102.2547919,-0.7361181
+TRX00858,2024-03-09,Provinsi Banten,Kabupaten Sambas,Food & Beverage,Hybrid,Bank Transfer,1051894,1,27.3,3.7,109.309998,1.361328
+TRX00859,2024-12-05,Provinsi Gorontalo,Kota Pematang Siantar,Fashion,Online,Credit Card,159384,4,31.9,4.1,99.06,2.96
+TRX00860,2024-06-12,Provinsi Papua,Kota Manado,Electronics,Online,Cash,1001400,1,23.5,4.2,124.842843,1.4917014
+TRX00861,2024-03-04,Provinsi Lampung,Kabupaten Keerom,Food & Beverage,Online,Bank Transfer,369812,3,3.7,4,140.7624493,-3.3449536
+TRX00862,2024-04-27,Provinsi Riau,Kabupaten Pemalang,Food & Beverage,Offline,Bank Transfer,810296,2,18.1,3.2,109.377998,-6.884234
+TRX00863,2024-05-23,Provinsi DKI Jakarta,Kabupaten Maybat,Health & Beauty,Online,Digital Wallet,227526,6,11.4,3.9,101.69970000000001,3.1472
+TRX00864,2024-07-18,Provinsi Kepulauan Riau,Kabupaten Mukomuko,Health & Beauty,Hybrid,Credit Card,938447,4,14,4.4,101.1169805,-2.5760003
+TRX00865,2024-03-07,Provinsi Bengkulu,Kabupaten Pegunungan Bintang,Home & Living,Online,Cash,10873788,3,28.3,4.7,140.5135589,-4.5589872
+TRX00866,2024-03-19,Provinsi Kalimantan Tengah,Kabupaten Polewali Mandar,Food & Beverage,Online,Credit Card,2548106,2,12.3,4.8,119.13906420000001,-3.3419323
+TRX00867,2024-03-26,Provinsi DKI Jakarta,Kabupaten Barito Timur,Health & Beauty,Online,Cash,1455295,4,11.7,4.6,115.188916,-2.0123999
+TRX00868,2024-10-22,Provinsi Sumatera Utara,Kabupaten Kolaka Utara,Home & Living,Hybrid,Bank Transfer,293997,2,5.1,4.1,121.1710389,-3.1347227
+TRX00869,2024-09-19,Provinsi Jawa Tengah,Kabupaten Pangkajene Dan Kepulauan,Home & Living,Offline,Credit Card,755550,4,22.8,4,119.5571677,-4.805035
+TRX00870,2024-11-08,Provinsi Sulawesi Tengah,Kabupaten Labuhanbatu Utara,Food & Beverage,Online,Cash,466028,2,30,3.9,99.8124935,2.3465638
+TRX00871,2024-06-22,Provinsi Kalimantan Timur,Kabupaten Kebumen,Food & Beverage,Online,Bank Transfer,74998,4,30.4,4.7,109.656502,-7.678682
+TRX00872,2024-09-14,Provinsi Kalimantan Barat,Kabupaten Halmahera Timur,Electronics,Offline,Bank Transfer,429412,4,1.4,3.9,128.4849923,1.3121235
+TRX00873,2024-03-18,Provinsi Riau,Kota Pangkal Pinang,Fashion,Online,Cash,397839,4,20.5,4.3,106.109596,-2.129323
+TRX00874,2024-02-03,Provinsi Kepulauan Riau,Kota Kotamobagu,Home & Living,Online,Bank Transfer,499174,2,5.9,4.7,124.3166667,0.7333333
+TRX00875,2024-04-01,Provinsi Aceh,Kabupaten Tanah Laut,Food & Beverage,Hybrid,Credit Card,320723,3,31.2,4.4,114.8092691,-3.7694047
+TRX00876,2024-01-17,Provinsi Kalimantan Barat,Kabupaten Kerinci,Home & Living,Online,Bank Transfer,1047764,5,21.3,4.3,101.4339148,-1.8720467
+TRX00877,2024-03-26,Provinsi Nusa Tenggara Timur,Kabupaten Tegal,Home & Living,Hybrid,Cash,3718835,4,7.8,4,109.1333333,-6.8666667
+TRX00878,2024-06-20,Provinsi Papua Barat,Kabupaten Sidoarjo,Home & Living,Offline,Digital Wallet,1734097,2,14.8,3.6,112.7173389,-7.4530278
+TRX00879,2024-10-11,Provinsi Papua Barat,Kabupaten Kepulauan Aru,Health & Beauty,Hybrid,Cash,1056556,3,52.1,4.1,134.5501935,-6.1946502
+TRX00880,2024-01-19,Provinsi Maluku Utara,Kabupaten Agam,Fashion,Offline,Credit Card,576891,2,12.9,3.8,100.1703257,-0.2209392
+TRX00881,2024-07-11,Provinsi Kalimantan Selatan,Kabupaten Kepahiang,Food & Beverage,Online,Bank Transfer,588936,3,3.7,4.3,102.578201,-3.651431
+TRX00882,2024-07-21,Provinsi Kalimantan Tengah,Kabupaten S I A K,Food & Beverage,Offline,Digital Wallet,1737335,3,12.1,4.2,113.921327,-0.789275
+TRX00883,2024-01-27,Provinsi Gorontalo,Kabupaten Barito Kuala,Food & Beverage,Hybrid,Digital Wallet,1966939,4,59.9,4,114.6667939,-3.0714738
+TRX00884,2024-07-01,Provinsi DI Yogyakarta,Kabupaten Bondowoso,Fashion,Online,Credit Card,302064,2,17.6,4.5,113.813483,-7.917704
+TRX00885,2024-11-30,Provinsi Sulawesi Tengah,Kabupaten Seram Bagian Barat,Home & Living,Online,Digital Wallet,1411472,4,6.3,4.9,128.4008357,-3.1271575
+TRX00886,2024-03-08,Provinsi Papua,Kabupaten Indragiri Hulu,Home & Living,Offline,Cash,167248,2,15.7,4.2,102.2547919,-0.7361181
+TRX00887,2024-07-17,Provinsi Jawa Barat,Kota Salatiga,Food & Beverage,Online,Credit Card,165658,3,24.2,4.5,110.4729,-7.302328
+TRX00888,2024-10-09,Provinsi Kalimantan Barat,Kabupaten Sekadau,Electronics,Hybrid,Digital Wallet,2692885,4,30.2,3.7,110.888603,0.015637
+TRX00889,2024-05-28,Provinsi Bengkulu,Kabupaten Nagan Raya,Health & Beauty,Offline,Digital Wallet,566527,2,26.6,4.1,96.4929797,4.1248406
+TRX00890,2024-11-14,Provinsi Gorontalo,Kabupaten Pinrang,Fashion,Offline,Bank Transfer,564741,0,47.1,4.2,119.6408,-3.793071
+TRX00891,2024-12-23,Provinsi Papua,Kabupaten Sukabumi,Electronics,Online,Digital Wallet,1453323,5,23.8,4.4,106.922203,-6.92405
+TRX00892,2024-01-26,Provinsi Kalimantan Selatan,Kota Palangka Raya,Electronics,Hybrid,Digital Wallet,448509,1,29.3,4.4,113.92,-2.21
+TRX00893,2024-07-11,Provinsi Kalimantan Timur,Kabupaten Toba Samosir,Food & Beverage,Online,Digital Wallet,234140,3,41.3,4.3,99.2785583,2.3502398
+TRX00894,2024-10-21,Provinsi Kalimantan Timur,Kabupaten Seram Bagian Timur,Fashion,Hybrid,Cash,626997,5,17.6,4.4,130.390488,-3.4150761
+TRX00895,2024-04-30,Provinsi Kalimantan Timur,Kota Jayapura,Electronics,Offline,Cash,98884,2,10.3,3.8,140.717,-2.533
+TRX00896,2024-09-14,Provinsi Kalimantan Barat,Kabupaten Boyolali,Home & Living,Offline,Cash,340399,3,16,4.3,110.595901,-7.523819
+TRX00897,2024-06-09,Provinsi Kepulauan Riau,Kabupaten Halmahera Timur,Fashion,Offline,Bank Transfer,466774,1,5.9,3.4,128.4849923,1.3121235
+TRX00898,2024-01-31,Provinsi Sumatera Barat,Kabupaten Hulu Sungai Tengah,Home & Living,Hybrid,Credit Card,129027,2,20.8,4.7,115.5207358,-2.6153162
+TRX00899,2024-08-21,Provinsi Kepulauan Bangka Belitung,Kabupaten Bolaang Mongondow,Food & Beverage,Offline,Credit Card,656780,3,29,4.5,124.0641419,0.6870994
+TRX00900,2024-12-21,Provinsi Sulawesi Tenggara,Kabupaten Banyu Asin,Fashion,Online,Bank Transfer,262395,3,8,4.2,104.7520939,-2.6095639
+TRX00901,2024-07-25,Provinsi DKI Jakarta,Kabupaten Bandung,Fashion,Online,Digital Wallet,1663473,4,9.5,5,107.6098111,-6.9147444
+TRX00902,2024-04-04,Provinsi Bali,Kota Kotamobagu,Home & Living,Hybrid,Digital Wallet,412214,5,19.4,3.9,124.3166667,0.7333333
+TRX00903,2024-03-12,Provinsi Riau,Kabupaten Kupang,Food & Beverage,Online,Digital Wallet,183384,1,11.9,4.8,123.5833333,-10.1833333
+TRX00904,2024-12-03,Provinsi Gorontalo,Kabupaten Way Kanan,Electronics,Offline,Digital Wallet,693539,4,11.9,4.6,104.5655273,-4.4963689
+TRX00905,2023-12-25,Provinsi Maluku Utara,Kabupaten Probolinggo,Food & Beverage,Offline,Credit Card,517685,1,19.6,5.3,113.210675,-7.753965
+TRX00906,2024-06-02,Provinsi Papua,Kabupaten Karimun,Home & Living,Hybrid,Bank Transfer,568444,3,8.6,4.8,103.3666667,1.05
+TRX00907,2024-03-10,Provinsi Papua,Kabupaten Konawe Utara,Electronics,Offline,Bank Transfer,677250,3,15.7,4.6,122.0837445,-3.3803291
+TRX00908,2024-05-29,Provinsi Maluku,Kabupaten Buru,Food & Beverage,Online,Digital Wallet,368177,3,44.2,4.5,126.7819505,-3.3927754
+TRX00909,2024-05-27,Provinsi Kalimantan Timur,Kabupaten Sambas,Home & Living,Online,Cash,393859,2,31.9,4.5,109.309998,1.361328
+TRX00910,2024-07-25,Provinsi Bali,Kabupaten Kepulauan Talaud,Electronics,Offline,Credit Card,1043764,3,35.4,4.6,126.768,4.092
+TRX00911,2024-06-26,Provinsi Bali,Kabupaten Gorontalo Utara,Health & Beauty,Online,Bank Transfer,2777543,5,5,4.6,122.4920088,0.9252647
+TRX00912,2024-10-04,Provinsi Riau,Kota Batu,Food & Beverage,Offline,Credit Card,79590,1,3.9,4.8,112.5239,-7.8671
+TRX00913,2024-07-27,Provinsi Kalimantan Timur,Kabupaten Rote Ndao,Food & Beverage,Online,Cash,476708,1,20.9,4.1,123.1239049,-10.7386421
+TRX00914,2024-11-13,Provinsi Kalimantan Timur,Kabupaten Labuhanbatu Selatan,Fashion,Hybrid,Credit Card,1454282,4,15,5.1,100.1703257,1.8799353
+TRX00915,2024-07-05,Provinsi Gorontalo,Kota Blitar,Home & Living,Online,Bank Transfer,167901,1,15.3,4.2,112.15,-8.1
+TRX00916,2024-06-27,Provinsi Banten,Kabupaten Penajam Paser Utara,Electronics,Online,Credit Card,1753552,3,18.5,3.5,116.5137964,-1.2917094
+TRX00917,2024-04-16,Provinsi Jawa Barat,Kota Medan,Food & Beverage,Online,Digital Wallet,373664,3,13.8,4.8,98.6755979,3.585242
+TRX00918,2024-08-17,Provinsi Papua Barat,Kabupaten Magetan,Food & Beverage,Online,Credit Card,1108028,1,12,3.5,111.3381593,-7.6493413
+TRX00919,2024-02-09,Provinsi Sumatera Barat,Kabupaten Lembata,Home & Living,Online,Credit Card,2383561,4,59.1,4.2,123.4831906,-8.4719075
+TRX00920,2024-05-09,Provinsi Bengkulu,Kabupaten Nagekeo,Food & Beverage,Online,Credit Card,1340988,2,23.7,3.8,121.3084088,-8.6753545
+TRX00921,2024-01-20,Provinsi Sumatera Barat,Kabupaten Ponorogo,Electronics,Offline,Credit Card,1838858,3,24,4.9,111.466003,-7.867827
+TRX00922,2024-07-14,Provinsi Kalimantan Barat,Kabupaten Kebumen,Fashion,Online,Bank Transfer,60025,2,6.1,4.5,109.656502,-7.678682
+TRX00923,2024-08-21,Provinsi Nusa Tenggara Timur,Kabupaten Sumenep,Health & Beauty,Offline,Credit Card,152814,3,34.4,3.9,113.9060624,-6.9253999
+TRX00924,2024-11-10,Provinsi Riau,Kabupaten Lampung Barat,Electronics,Offline,Bank Transfer,976575,4,45.2,4.7,104.1930918,-5.1490396
+TRX00925,2024-02-05,Provinsi Sulawesi Selatan,Kabupaten Belu,Food & Beverage,Online,Credit Card,219599,4,7.2,4.3,124.9506625,-9.4125796
+TRX00926,2024-06-01,Provinsi Lampung,Kabupaten Banggai Kepulauan,Fashion,Online,Credit Card,314414,5,53.5,4.5,123.5504076,-1.6408137
+TRX00927,2024-06-04,Provinsi Jawa Timur,Kota Banjar,Electronics,Offline,Digital Wallet,2179405,2,15.8,4.7,108.5333333,-7.3666667
+TRX00928,2024-04-16,Provinsi Sulawesi Tengah,Kabupaten Nias Selatan,Fashion,Online,Credit Card,613438,1,27.2,3.9,97.8286368,0.7086091
+TRX00929,2024-11-22,Provinsi Kepulauan Bangka Belitung,Kabupaten Jayapura,Electronics,Offline,Cash,571293,3,28.1,4.3,140.717,-2.533
+TRX00930,2024-03-09,Provinsi Jawa Tengah,Kabupaten Mappi,Fashion,Hybrid,Bank Transfer,427092,4,10.3,2.9,139.396393,-7.102232
+TRX00931,2024-06-14,Provinsi Maluku Utara,Kabupaten Tanah Datar,Home & Living,Online,Cash,110464,2,38.1,4,100.5746224,-0.4797043
+TRX00932,2024-03-26,Provinsi Jambi,Kabupaten Kapuas,Food & Beverage,Online,Cash,83264,3,34.8,4.6,110.1313251,-0.0459972
+TRX00933,2024-04-20,Provinsi Sulawesi Utara,Kabupaten Aceh Timur,Fashion,Online,Digital Wallet,439140,2,13.2,4.7,95.9885456,5.255443
+TRX00934,2024-05-17,Provinsi Kalimantan Selatan,Kabupaten Kebumen,Home & Living,Online,Bank Transfer,778465,2,16.8,4.5,109.656502,-7.678682
+TRX00935,2024-12-21,Provinsi Papua,Kota Pematang Siantar,Home & Living,Online,Cash,146005,3,16.1,4.3,99.06,2.96
+TRX00936,2024-04-04,Provinsi Jambi,Kabupaten Garut,Fashion,Online,Cash,89551,2,4.1,4.6,107.908699,-7.227906
+TRX00937,2024-09-30,Provinsi Sulawesi Tenggara,Kabupaten Langkat,Fashion,Online,Digital Wallet,1954900,4,32.7,3.7,98.3088441,3.8653916
+TRX00938,2024-10-10,Provinsi Nusa Tenggara Timur,Kabupaten Simalungun,Electronics,Online,Bank Transfer,906493,1,4.9,3.9,99.2785583,2.9781612
+TRX00939,2024-02-17,Provinsi Jawa Barat,Kabupaten Lanny Jaya,Fashion,Online,Cash,884197,1,25.9,3.7,138.3190276,-3.971033
+TRX00940,2024-10-31,Provinsi Papua,Kota Binjai,Food & Beverage,Online,Credit Card,1366054,4,4.6,4.4,98.482246,3.594462
+TRX00941,2023-12-26,Provinsi Kepulauan Riau,Kabupaten Pacitan,Fashion,Offline,Cash,950824,1,36.1,4.2,111.08769,-8.204614
+TRX00942,2024-07-27,Provinsi Maluku Utara,Kabupaten Belitung Timur,Food & Beverage,Online,Bank Transfer,190011,4,6.9,4.4,107.9531836,-2.8708938
+TRX00943,2024-01-03,Provinsi Kepulauan Riau,Kabupaten Lampung Timur,Food & Beverage,Online,Bank Transfer,1905958,1,39.4,4.4,105.6881788,-5.1134995
+TRX00944,2024-02-12,Provinsi Jawa Timur,Kabupaten Rokan Hulu,Food & Beverage,Online,Cash,152205,1,16.9,4.8,100.439656,1.0410934
+TRX00945,2024-09-20,Provinsi Gorontalo,Kabupaten Tapanuli Tengah,Fashion,Online,Digital Wallet,338322,0,23.5,5.1,98.704075,1.8493299
+TRX00946,2024-01-03,Provinsi Sulawesi Selatan,Kabupaten Pekalongan,Fashion,Online,Bank Transfer,762178,2,14.3,3.5,109.669998,-6.882887
+TRX00947,2024-08-09,Provinsi Lampung,Kabupaten Pinrang,Home & Living,Online,Credit Card,723126,3,27.2,4.4,119.6408,-3.793071
+TRX00948,2024-12-09,Provinsi Kalimantan Selatan,Kota Bekasi,Fashion,Offline,Bank Transfer,984290,1,7.5,3.9,107,-6.2333333
+TRX00949,2024-08-02,Provinsi Lampung,Kabupaten Pemalang,Health & Beauty,Online,Cash,1311828,4,9.2,4.9,109.377998,-6.884234
+TRX00950,2024-04-02,Provinsi Sumatera Selatan,Kota Palangka Raya,Fashion,Offline,Bank Transfer,242964,3,36.1,4.5,113.92,-2.21
+TRX00951,2024-05-16,Provinsi Riau,Kabupaten Mesuji,Home & Living,Online,Bank Transfer,150680,6,0.6,4.8,105.3131185,-4.0044783
+TRX00952,2024-05-04,Provinsi Banten,Kabupaten Wonosobo,Fashion,Hybrid,Digital Wallet,169839,6,16.1,3.6,109.899399,-7.362109
+TRX00953,2024-04-16,Provinsi Maluku Utara,Kota Tangerang,Fashion,Online,Cash,969779,1,14,4.2,106.6318889,-6.1783056
+TRX00954,2024-11-22,Provinsi Sulawesi Selatan,Kota Sukabumi,Food & Beverage,Offline,Bank Transfer,343721,3,34.3,5,106.922203,-6.92405
+TRX00955,2024-08-22,Provinsi Kalimantan Barat,Kabupaten Sijunjung,Electronics,Online,Credit Card,825094,2,27.5,3.8,100.997658,-0.6881586
+TRX00956,2024-03-28,Provinsi Bengkulu,Kota Bau-Bau,Food & Beverage,Online,Cash,1782134,5,5.7,3.7,122.633,-5.46667
+TRX00957,2024-11-05,Provinsi Kepulauan Bangka Belitung,Kabupaten Tapanuli Selatan,Fashion,Online,Bank Transfer,278899,3,42.1,4.1,99.2785583,1.5774933
+TRX00958,2024-03-23,Provinsi Kalimantan Barat,Kabupaten Ngada,Food & Beverage,Offline,Bank Transfer,1376479,7,8.6,3.9,120.9876321,-8.7430424
+TRX00959,2024-03-21,Provinsi DKI Jakarta,Kabupaten Tanjung Jabung Timur,Food & Beverage,Online,Digital Wallet,286487,3,6.7,4.6,103.89973,-1.3291599
+TRX00960,2024-05-14,Provinsi Sumatera Utara,Kabupaten Puncak,Fashion,Offline,Digital Wallet,1011712,8,19,4,106.9542425,-6.7125476
+TRX00961,2024-04-24,Provinsi Sulawesi Barat,Kabupaten Simalungun,Electronics,Offline,Digital Wallet,564906,2,23.1,4.1,99.2785583,2.9781612
+TRX00962,2024-10-09,Provinsi Kalimantan Timur,Kabupaten Buton Utara,Electronics,Online,Credit Card,233258,1,5.7,3.5,123.0338767,-4.7023424
+TRX00963,2024-01-22,Provinsi Kalimantan Tengah,Kabupaten Barru,Food & Beverage,Offline,Bank Transfer,1408718,5,17.1,4.4,119.6730939,-4.4172651
+TRX00964,2024-06-02,Provinsi Maluku,Kabupaten Solok,Fashion,Online,Bank Transfer,1124608,2,35,4.5,100.644402,-0.803027
+TRX00965,2024-03-01,Provinsi Sumatera Selatan,Kabupaten Brebes,Food & Beverage,Online,Bank Transfer,229059,2,25.3,3.6,109.05,-6.8833333
+TRX00966,2024-05-01,Provinsi Papua Barat,Kota Bekasi,Food & Beverage,Online,Bank Transfer,566959,4,24,4.9,107,-6.2333333
+TRX00967,2024-07-18,Provinsi Sulawesi Tenggara,Kabupaten Pelalawan,Home & Living,Online,Bank Transfer,6802076,5,10.6,3.7,102.088699,0.441415
+TRX00968,2024-01-15,Provinsi DI Yogyakarta,Kabupaten Sleman,Fashion,Online,Bank Transfer,257423,4,35.4,4.4,110.335403,-7.716165
+TRX00969,2024-07-26,Provinsi Papua Barat,Kabupaten Kepulauan Meranti,Food & Beverage,Hybrid,Credit Card,462142,1,42.4,4.3,102.6675575,0.9208765
+TRX00970,2024-09-25,Provinsi Kalimantan Barat,Kabupaten Kepulauan Meranti,Home & Living,Online,Credit Card,2220479,3,6.1,3.8,102.6675575,0.9208765
+TRX00971,2024-09-23,Provinsi Kalimantan Selatan,Kabupaten Halmahera Selatan,Fashion,Offline,Digital Wallet,179269,3,2.6,3.9,128.4849923,1.3121235
+TRX00972,2024-07-21,Provinsi Riau,Kota Bengkulu,Food & Beverage,Offline,Bank Transfer,5901718,5,39.6,4.7,102.2591667,-3.7955556
+TRX00973,2024-07-21,Provinsi Maluku,Kabupaten Minahasa,Food & Beverage,Offline,Digital Wallet,280138,3,16.4,4.2,124.5833333,1
+TRX00974,2024-07-07,Provinsi Nusa Tenggara Barat,Kota Jakarta Barat,Health & Beauty,Online,Credit Card,324133,2,25.4,4.1,106.845172,-6.211544
+TRX00975,2024-06-13,Provinsi Kalimantan Selatan,Kota Denpasar,Fashion,Online,Bank Transfer,525332,2,19.6,4.7,115.222099,-8.65629
+TRX00976,2024-07-18,Provinsi Maluku,Kabupaten Kepulauan Mentawai,Fashion,Offline,Digital Wallet,1599204,3,3.6,4.4,98.9245343,-1.426001
+TRX00977,2024-12-17,Provinsi Sumatera Barat,Kota Singkawang,Electronics,Offline,Bank Transfer,13878941,2,10.1,4.1,108.984596,0.908795
+TRX00978,2024-01-24,Provinsi Lampung,Kabupaten Tana Tidung,Home & Living,Hybrid,Cash,885276,4,5.6,4.3,117.0794082,3.551869
+TRX00979,2024-02-09,Provinsi Kepulauan Bangka Belitung,Kabupaten Bandung Barat,Electronics,Offline,Cash,1014551,2,6.2,3.5,107.4321959,-6.8937121
+TRX00980,2024-09-19,Provinsi Papua Barat,Kabupaten Intan Jaya,Home & Living,Online,Credit Card,138249,4,31.5,4.3,136.7478493,-3.5076422
+TRX00981,2024-05-25,Provinsi Maluku Utara,Kabupaten Karanganyar,Food & Beverage,Online,Cash,628809,3,50.2,5.3,110.9508333,-7.5961111
+TRX00982,2024-01-27,Provinsi Maluku,Kabupaten Yahukimo,Food & Beverage,Online,Bank Transfer,51563,6,15.5,4.1,139.5279996,-4.4939717
+TRX00983,2024-02-16,Provinsi Sulawesi Tengah,Kabupaten Ende,Home & Living,Online,Cash,421707,5,22.3,3.9,121.654198,-8.854053
+TRX00984,2024-05-23,Provinsi Nusa Tenggara Timur,Kota Padang Panjang,Fashion,Online,Cash,2354327,3,7.7,4.9,100.4059456,-0.470679
+TRX00985,2024-01-09,Provinsi Sumatera Utara,Kabupaten Demak,Health & Beauty,Online,Digital Wallet,447875,1,19.9,4.6,110.639297,-6.888115
+TRX00986,2024-11-14,Provinsi Kalimantan Tengah,Kabupaten Klungkung,Fashion,Online,Cash,515400,2,15,4.9,115.4045111,-8.5389222
+TRX00987,2024-11-20,Provinsi Nusa Tenggara Barat,Kota Jakarta Selatan,Electronics,Online,Digital Wallet,567721,3,10.6,4.5,106.807915,-6.332973
+TRX00988,2024-06-26,Provinsi Kepulauan Riau,Kabupaten Bantul,Fashion,Online,Credit Card,482440,3,30.9,4.4,110.3341111,-7.8846111
+TRX00989,2024-09-17,Provinsi Sumatera Barat,Kabupaten Mamuju,Electronics,Online,Bank Transfer,603433,2,9.9,4.5,118.9295737,-2.7293364
+TRX00990,2024-11-11,Provinsi Sumatera Selatan,Kabupaten Malang,Fashion,Online,Bank Transfer,120464,2,4.6,3.8,112.6884549,-8.0495643
+TRX00991,2024-04-28,Provinsi Maluku Utara,Kota Denpasar,Fashion,Hybrid,Cash,337550,6,36.1,4.3,115.222099,-8.65629
+TRX00992,2024-01-17,Provinsi Papua,Kabupaten Rembang,Fashion,Offline,Bank Transfer,387997,5,23.3,4.4,111.345299,-6.71124
+TRX00993,2024-01-21,Provinsi Kalimantan Barat,Kabupaten Nagan Raya,Electronics,Offline,Cash,965222,7,4.2,5.1,96.4929797,4.1248406
+TRX00994,2024-06-21,Provinsi Sumatera Selatan,Kabupaten Tana Toraja,Food & Beverage,Offline,Digital Wallet,671801,1,11.1,4.6,119.742604,-3.0753003
+TRX00995,2024-01-08,Provinsi Kalimantan Selatan,Kabupaten Yalimo,Electronics,Online,Credit Card,255697,4,36.8,5,139.4466005,-3.7852847
+TRX00996,2024-06-09,Provinsi Sumatera Selatan,Kota Manado,Electronics,Offline,Bank Transfer,1276145,7,8.4,4.2,124.842843,1.4917014
+TRX00997,2024-08-19,Provinsi Kepulauan Riau,Kota Tangerang,Electronics,Offline,Cash,1861561,3,35,3.8,106.6318889,-6.1783056
+TRX00998,2024-01-01,Provinsi Bengkulu,Kabupaten Bone Bolango,Fashion,Online,Cash,151892,5,15.4,3.8,123.3486147,0.5657885
+TRX00999,2024-10-11,Provinsi Bali,Kabupaten Konawe Utara,Electronics,Offline,Cash,656286,5,5.3,3.6,122.0837445,-3.3803291
+TRX01000,2024-10-28,Provinsi Jawa Timur,Kabupaten Sukoharjo,Home & Living,Offline,Cash,258155,2,28.3,3.3,110.8195292,-7.6808818

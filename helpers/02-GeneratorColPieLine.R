@@ -48,6 +48,20 @@ generate_plot <- function(data, x_var, y_var, z_var = NULL, plot_type = "column"
           e_tooltip()
       }
     },
+    "area" = {
+      if (!is.null(z_var)) {
+        data %>%
+          group_by(!!sym(z_var)) %>%
+          e_charts_(x_var) %>%
+          e_area_(actual_y_var) %>%
+          e_tooltip()
+      } else {
+        data %>%
+          e_charts_(x_var) %>%
+          e_area_(actual_y_var) %>%
+          e_tooltip()
+      }
+    },
     "pie" = {
       # Ignore z_var for pie charts
       data %>%
